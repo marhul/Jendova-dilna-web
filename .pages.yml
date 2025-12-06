@@ -16,7 +16,7 @@ media:
 content:
   # Ostatní stránky
   - name: pages
-    label: Ostatní stránky
+    label: Stránky
     type: collection
     path: pages/
     filter:
