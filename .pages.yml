@@ -1,19 +1,4 @@
 content:
-  # Úvodní stránka
-  - name: homepage
-    label: Úvodní stránka
-    type: file
-    path: index.md
-    fields:
-      - name: layout
-        type: string
-      - name: title
-        type: string
-      - name: subtitle
-        type: string
-      - name: body
-        type: markdown-body
-
   # Ostatní stránky
   - name: pages
     label: Ostatní stránky
