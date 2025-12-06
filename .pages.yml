@@ -9,24 +9,21 @@ content:
     type: collection
     path: ./
     filter:
-      include: '*.md'
+      include:
+        - '*.md'
     fields:
       - name: layout
         label: Layout
         type: string
-
       - name: title
         label: Titulek
         type: string
-
       - name: subtitle
         label: Podtitulek
         type: string
-
       - name: body
         label: Obsah
         type: markdown
-        required: false
 
 settings:
   content:
