@@ -1,30 +1,40 @@
+# Pages CMS configuration for Jendova-dilna-web
+
 media:
-  # složka pro nahrávání médií (obrázky, soubory …)
-  - name: media
-    label: Média
-    input: img      # odpovídá tvé složce img
+  # Obrázky – používá tvoji složku img/
+  - name: images
+    label: Obrázky
+    input: img
+
+  # Volitelné – pokud chceš upravovat soubory v assets/
   - name: assets
     label: Assets
-    input: assets   # CSS, JS, další assets pokud je chceš editovat
+    input: assets
 
 content:
+  # Editace všech markdown stránek v kořeni repozitáře
   - name: pages
-    label: Stránky
+    label: Stránky webu
     type: collection
-    path: ./        # kořen repozitáře, kde leží .md soubory
+    path: ./
     filename: '{slug}.md'
+    filter:
+      include: '*.md'
     fields:
       - name: title
-        label: Titulek
+        label: Titulek stránky
         type: string
+
       - name: body
         label: Obsah
         type: rich-text
+
       - name: slug
-        label: URL slug / název souboru
+        label: Název souboru (slug)
         type: string
         required: true
-        default: ''   # pokud slug nechceš měnit, dej prázdné default
+        description: "Název výsledného .md souboru (např. 'krouzky', 'kontakty')."
+
 settings:
   content:
     merge: true
