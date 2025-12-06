@@ -29,12 +29,11 @@ Grünwaldova 1760/30
 
 ## Spojte se s námi
 
+📧 **E-mail:** info<!-- mail -->@<!-- protect -->jendovadilna<!-- spam -->.cz
+
 <div class="contact-icons" style="font-size: 2rem; margin: 2rem 0;">
   <a href="https://chat.whatsapp.com/" title="WhatsApp skupina" style="margin-right: 1rem; color: #25D366;">
     <i class="fab fa-whatsapp"></i>
-  </a>
-  <a href="mailto:kontakt@jendovadilna.cz" title="E-mail" style="margin-right: 1rem; color: #EA4335;">
-    <i class="fas fa-envelope"></i>
   </a>
   <a href="https://instagram.com/jendovadilna" title="Instagram" style="margin-right: 1rem; color: #E1306C;">
     <i class="fab fa-instagram"></i>
