@@ -1,0 +1,28 @@
+backend:
+  # Používáme Netlify Identity pro snadné přihlášení
+  name: git-gateway
+  branch: main # Název vaší hlavní větve na GitHubu
+
+publish_mode: editorial_workflow # Umožňuje recenzi obsahu před publikováním
+
+media_folder: "assets/img/uploads" # Kam se budou nahrávat obrázky (např. assets/img/uploads)
+public_folder: "/assets/img/uploads" # Cesta k obrázkům ve webu
+
+# Kolekce obsahu - Stránky, které budete chtít editovat
+collections:
+  - name: "pages" # Interní název pro CMS
+    label: "Hlavní Stránky" # Zobrazovaný název v administračním rozhraní
+    files:
+      - file: "index.html"
+        label: "Úvodní Stránka"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Nadpis stránky (Title)", name: "title", widget: "string"}
+          - {label: "Tělo obsahu (Markdown)", name: "body", widget: "markdown"}
+      - file: "o-nas.md"
+        label: "Stránka O nás"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Trvalý odkaz (Permalink)", name: "permalink", widget: "hidden", default: "/o-nas/"}
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Tělo obsahu", name: "body", widget: "markdown"}
