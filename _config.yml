@@ -16,12 +16,19 @@ avatar: /img/jendovadilnaspolek_logo_200x200.png
 
 # Navigační menu
 navbar-links:
-  O nás: "o_nas"
   Rozvrh akcí: "rozvrh"
-  ❤️ Podpořte nás: "https://www.donio.cz/jendovadilna"
+  Kontakty: "kontakty"
+  ❤️ Podpořte nás ↗: "https://www.donio.cz/jendovadilna"
 
 # Nastavení footer
 author: Jendova dílna
+
+# Sociální sítě v patičce
+social-network-links:
+  email: "kontakt@jendovadilna.cz"
+  facebook: jendovadilna
+  instagram: jendovadilna
+  patreon: jendovadilna
 
 # Vzhled
 navbar-col: "#EAEAEA"
@@ -34,3 +41,7 @@ hover-col: "#0085A1"
 footer-col: "#FFFFFF"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+
+# Vlastní CSS
+site-css:
+  - "/assets/css/custom-styles.css"

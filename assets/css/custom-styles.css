@@ -1,0 +1,11 @@
+/* Vlastní styly pro Jendovu dílnu */
+
+/* Červený odkaz "Podpořte nás" v navigaci */
+.navbar-nav a[href*="donio"] {
+  color: #E91E63 !important;
+  font-weight: bold;
+}
+
+.navbar-nav a[href*="donio"]:hover {
+  color: #C2185B !important;
+}
