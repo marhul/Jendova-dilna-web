@@ -5,11 +5,11 @@ backend:
   identity_url: "https://preeminent-kheer-b871e1.netlify.app/.netlify/identity"
   gateway_url: "https://preeminent-kheer-b871e1.netlify.app/.netlify/git"
 
-site_url: https://marhul.github.io/Jendova-dilna-web
-display_url: https://marhul.github.io/Jendova-dilna-web
+site_url: https://jendovadilna.cz
+display_url: https://jendovadilna.cz
 
 media_folder: "assets/img/uploads"
-public_folder: "/Jendova-dilna-web/assets/img/uploads"
+public_folder: "/assets/img/uploads"
 
 # Kolekce obsahu - Stránky, které budete chtít editovat
 collections:

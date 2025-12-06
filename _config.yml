@@ -1,9 +1,9 @@
 # Aktivace vzdáleného tématu Beautiful Jekyll
 remote_theme: daattali/beautiful-jekyll
 
-# GitHub Pages nastavení
-baseurl: "/Jendova-dilna-web"
-url: "https://marhul.github.io"
+# GitHub Pages nastavení pro vlastní doménu
+baseurl: ""
+url: "https://jendovadilna.cz"
 
 # Aktivace potřebných pluginů
 plugins:
