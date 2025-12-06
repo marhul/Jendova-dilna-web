@@ -1,0 +1,30 @@
+media:
+  # složka pro nahrávání médií (obrázky, soubory …)
+  - name: media
+    label: Média
+    input: img      # odpovídá tvé složce img
+  - name: assets
+    label: Assets
+    input: assets   # CSS, JS, další assets pokud je chceš editovat
+
+content:
+  - name: pages
+    label: Stránky
+    type: collection
+    path: ./        # kořen repozitáře, kde leží .md soubory
+    filename: '{slug}.md'
+    fields:
+      - name: title
+        label: Titulek
+        type: string
+      - name: body
+        label: Obsah
+        type: rich-text
+      - name: slug
+        label: URL slug / název souboru
+        type: string
+        required: true
+        default: ''   # pokud slug nechceš měnit, dej prázdné default
+settings:
+  content:
+    merge: true
