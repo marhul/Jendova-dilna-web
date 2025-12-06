@@ -1,3 +1,18 @@
+media:
+  # Obrázky
+  - name: images
+    label: Obrázky
+    input: img
+    public_folder: /img
+    media_folder: img
+
+  # Další assets (CSS, JS, dokumenty)
+  - name: assets
+    label: Assets
+    input: assets
+    public_folder: /assets
+    media_folder: assets
+
 content:
   # Ostatní stránky
   - name: pages
@@ -8,10 +23,40 @@ content:
       include: '*.md'
     fields:
       - name: layout
+        label: Layout
         type: string
       - name: title
+        label: Titulek
         type: string
       - name: subtitle
+        label: Podtitulek
         type: string
       - name: body
+        label: Obsah
         type: markdown-body
+      - name: cover_image
+        label: Hlavní obrázek
+        type: image
+        required: false
+        hint: "Vyber obrázek pro stránku z img/ nebo nahraj nový"
+      - name: gallery
+        label: Galerie obrázků
+        type: list
+        of:
+          type: image
+        required: false
+        hint: "Drag-and-drop galerie: nahrávej více obrázků, měň pořadí tažením"
+        # povolit drag-and-drop v CMS
+        sortable: true
+        allow_multiple: true
+
+settings:
+  content:
+    merge: true
+  media_library:
+    allow_upload: true
+    accepted_types:
+      - image/jpeg
+      - image/png
+      - image/gif
+      - image/svg+xml
