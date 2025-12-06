@@ -1,29 +1,50 @@
+# Pages CMS configuration for Jendova-dilna-web
+
 media:
   - name: images
     label: Obrázky
     input: img
 
 content:
+  # Úvodní stránka
+  - name: homepage
+    label: Úvodní stránka
+    type: file
+    path: index.md
+    fields:
+      - name: layout
+        label: Layout
+        type: string
+      - name: title
+        label: Titulek
+        type: string
+      - name: subtitle
+        label: Podtitulek
+        type: string
+      - name: body
+        label: Obsah
+        type: markdown
+
+  # Ostatní Markdown stránky v rootu
   - name: pages
-    label: Stránky webu
+    label: Ostatní stránky
     type: collection
     path: ./
     filter:
       include:
         - '*.md'
+      exclude:
+        - index.md
     fields:
       - name: layout
         label: Layout
         type: string
-
       - name: title
         label: Titulek
         type: string
-
       - name: subtitle
         label: Podtitulek
         type: string
-
       - name: body
         label: Obsah
         type: markdown
