@@ -1,0 +1,8 @@
+# Aktivace vzdáleného tématu Beautiful Jekyll
+remote_theme: daattali/beautiful-jekyll
+
+# Aktivace potřebných pluginů
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
