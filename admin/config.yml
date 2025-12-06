@@ -13,16 +13,27 @@ collections:
   - name: "pages" # Interní název pro CMS
     label: "Hlavní Stránky" # Zobrazovaný název v administračním rozhraní
     files:
-      - file: "index.html"
+      - name: "index"
+        file: "index.md"
         label: "Úvodní Stránka"
         fields:
-          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
           - {label: "Nadpis stránky (Title)", name: "title", widget: "string"}
+          - {label: "Podnadpis (Subtitle)", name: "subtitle", widget: "string"}
           - {label: "Tělo obsahu (Markdown)", name: "body", widget: "markdown"}
-      - file: "o-nas.md"
-        label: "Stránka O nás"
+      - name: "kontakty"
+        file: "kontakty.md"
+        label: "Stránka Kontakty"
         fields:
-          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-          - {label: "Trvalý odkaz (Permalink)", name: "permalink", widget: "hidden", default: "/o-nas/"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
           - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Podnadpis", name: "subtitle", widget: "string"}
+          - {label: "Tělo obsahu", name: "body", widget: "markdown"}
+      - name: "rozvrh"
+        file: "rozvrh.md"
+        label: "Stránka Rozvrh akcí"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Podnadpis", name: "subtitle", widget: "string"}
           - {label: "Tělo obsahu", name: "body", widget: "markdown"}
