@@ -5,11 +5,25 @@ subtitle: Kde nás najdete a jak se s námi spojit
 permalink: /kontakty/
 ---
 
+## O spolku
+
+| | |
+|---|---|
+| **Název** | Spolek Jendova dílna |
+| **Datum vzniku** | 30. 10. 2025 |
+| **IČO** | 23827297 |
+| **Právní forma** | Spolek |
+| **Spisová značka** | L 9758/KSCB Krajský soud v Českých Budějovicích |
+
+**Účel spolku:** Vytvářet a podporovat prostor pro kulturní, vzdělávací, společenské a sportovní a jiné zájmové aktivity, které přispívají k rozvoji osobnosti, tvořivosti, komunity a vzájemné solidarity.
+
+---
+
 ## Kde nás najdete
 
-**Jendova dílna**  
-Česká ulice  
-České Budějovice
+**Spolek Jendova dílna**  
+Grünwaldova 1760/30  
+370 01 České Budějovice
 
 ---
 
