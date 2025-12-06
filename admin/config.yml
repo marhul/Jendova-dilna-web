@@ -1,8 +1,10 @@
 backend:
   name: git-gateway
   branch: main
+  # Netlify site pro autentizaci
+  identity_url: "https://preeminent-kheer-b871e1.netlify.app/.netlify/identity"
+  gateway_url: "https://preeminent-kheer-b871e1.netlify.app/.netlify/git"
 
-# Netlify site name pro autentizaci (vytvoříte na Netlify)
 site_url: https://marhul.github.io/Jendova-dilna-web
 display_url: https://marhul.github.io/Jendova-dilna-web
 
