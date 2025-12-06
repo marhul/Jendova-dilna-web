@@ -27,7 +27,7 @@ content:
 
       - name: body
         label: Obsah
-        type: rich-text
+        type: markdown
 
       - name: slug
         label: Název souboru (slug)
