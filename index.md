@@ -41,7 +41,7 @@ Každý finanční příspěvek přibližuje otevření Jendovy dílny a pomáh�
 
 Navštivte prosím stránku sbírky na Donio, kde je možné přispět online:
 
-👉 **[Podpořte Jendovu dílnu na Donio](https://www.donio.cz/jendovadilna)**
+👉 **[Podpořte Jendovu dílnu na Donio](https://donio.cz/jendova-dilna-pokracovani-pribehu-plneho-laskavosti)**
 
 ---
 
