@@ -6,3 +6,29 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-feed
+
+# Informace o webu
+title: Jendova dílna
+description: Kreativní a keramická dílna v Českých Budějovicích
+
+# Logo a avatar
+avatar: /img/jendovadilnaspolek_logo_200x200.png
+
+# Navigační menu
+navbar-links:
+  O nás: "o_nas"
+
+# Nastavení footer
+author: Jendova dílna
+
+# Vzhled
+navbar-col: "#FFFFFF"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#FFFFFF"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
