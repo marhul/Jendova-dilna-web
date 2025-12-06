@@ -1,12 +1,13 @@
 backend:
-  # Používáme Netlify Identity pro snadné přihlášení
   name: git-gateway
-  branch: main # Název vaší hlavní větve na GitHubu
+  branch: main
 
-publish_mode: editorial_workflow # Umožňuje recenzi obsahu před publikováním
+# Netlify site name pro autentizaci (vytvoříte na Netlify)
+site_url: https://marhul.github.io/Jendova-dilna-web
+display_url: https://marhul.github.io/Jendova-dilna-web
 
-media_folder: "assets/img/uploads" # Kam se budou nahrávat obrázky (např. assets/img/uploads)
-public_folder: "/assets/img/uploads" # Cesta k obrázkům ve webu
+media_folder: "assets/img/uploads"
+public_folder: "/Jendova-dilna-web/assets/img/uploads"
 
 # Kolekce obsahu - Stránky, které budete chtít editovat
 collections:
