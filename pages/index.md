@@ -2,6 +2,7 @@
 layout: page
 title: Jendova dílna
 subtitle: Místo, kde dobro tvoří dál
+permalink: /
 ---
 
 **Jendova dílna** je plánovaná kreativní a keramická dílna v centru Českých Budějovic, která ponese jméno **Jana „Jendy" Vacky**, mladého keramika s velkým srdcem a talentem. Vzniká jako živý prostor pro setkávání, tvoření, sdílení radosti a pokračování v tom, co měl Jeníček nejraději – keramiku, lidi a společný čas.

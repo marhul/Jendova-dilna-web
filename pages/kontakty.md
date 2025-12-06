@@ -2,6 +2,7 @@
 layout: page
 title: Kontakty
 subtitle: Kde nás najdete a jak se s námi spojit
+permalink: /kontakty/
 ---
 
 ## Kde nás najdete

@@ -2,6 +2,7 @@
 layout: page
 title: Kroužky
 subtitle: Co se bude v dílně nabízet
+permalink: /krouzky/
 ---
 
 ## 🧒👧 Tvoříme se stroji: od nápadu k výrobku!
