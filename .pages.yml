@@ -14,9 +14,9 @@ media:
     media_folder: assets
 
 content:
-  # Blog
+  # Aktuality
   - name: posts
-    label: Blog
+    label: Aktuality
     type: collection
     path: _posts/
     filter:
