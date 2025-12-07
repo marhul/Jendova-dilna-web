@@ -14,6 +14,34 @@ media:
     media_folder: assets
 
 content:
+  # Blog
+  - name: posts
+    label: Blog
+    type: collection
+    path: _posts/
+    filter:
+      include: "*.md"
+    fields:
+      - name: layout
+        label: Layout
+        type: string
+        default: post
+      - name: title
+        label: Titulek
+        type: string
+      - name: date
+        label: Datum
+        type: datetime
+      - name: cover_image
+        label: Hlavní obrázek
+        type: image
+        required: false
+        public_folder: /img
+        media_folder: img
+      - name: body
+        label: Obsah
+        type: markdown-body
+
   # Ostatní stránky
   - name: pages
     label: Stránky
