@@ -16,8 +16,7 @@ permalink: /kontakty/
 
 ## Kde nás najdete
 
-**Spolek Jendova dílna**  
-Grünwaldova 1760/30  
+ulice Česká
 370 01 České Budějovice
 
 ---
