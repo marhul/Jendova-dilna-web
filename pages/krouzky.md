@@ -132,5 +132,5 @@ Kreativní kroužek pro děti, kde se naučí základy 3D tisku, programování 
 
 > **Kroužky zatím plánujeme.** Pokud máte zájem, [kontaktujte nás](/kontakty) nebo sledujte náš [rozvrh akcí](/rozvrh).
 
-<a href="http://reenio.cz/cs/redirect/reservationpage/24490" class="reenio-reservation-btn" style="color: #fff; background-color: #f05033; border-radius: 4px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; display: inline-block; padding: 6px 12px; text-decoration: none;">nová rezervace</a>
+<a href="http://reenio.cz/cs/redirect/reservationpage/24490" class="reenio-reservation-btn" target="_blank" data-no-dialog="1" style="color: #fff; background-color: #f05033; border-radius: 4px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; display: inline-block; padding: 6px 12px; text-decoration: none;">nová rezervace</a>
 <script src="https://reenio.cz/cs/GI2DIOJQ/widget-reservation-btn.js" async defer></script>
