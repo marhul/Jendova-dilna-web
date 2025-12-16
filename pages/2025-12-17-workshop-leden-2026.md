@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop leden 2026
+title: Workshop
 cover_image: img/bambu-lab-cyberbrick-ultimate-hardware-kit-862654-cs.png
 ---
 # Workshop: Sestav si vlastního robota 🤖
