@@ -9,3 +9,21 @@
 .navbar-nav a[href*="donio"]:hover {
   color: #C2185B !important;
 }
+
+/* Responzivní vložení externího formuláře (iframe) */
+.embed-wrap {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.embed-iframe {
+  width: 100%;
+  min-height: 980px;
+  border: 0;
+}
+
+@media (max-width: 576px) {
+  .embed-iframe {
+    min-height: 1200px;
+  }
+}

@@ -54,6 +54,23 @@ Po zakoupení voucheru budeš kontaktován s možností výběru konkrétního t
 
 ---
 
+## Registrace a vygenerování poukázky
+
+Vyplň prosím formulář níže – vygeneruje **číslo poukazu** a umožní stáhnout **PDF voucher**.
+
+<div class="embed-wrap" aria-label="Registrace zájemce o workshop">
+   <iframe
+      class="embed-iframe"
+      src="http://mqtt1.vps.webdock.cloud:8099/"
+      title="Registrace zájemce o workshop"
+      loading="lazy"
+   ></iframe>
+</div>
+
+Pokud se formulář nezobrazuje, otevři ho v novém okně: https://mqtt1.vps.webdock.cloud:8099/
+
+---
+
 ## Varianty poukázky
 
 ### 🅰️ Varianta A – Workshop (900 Kč)
@@ -92,12 +109,12 @@ Platba probíhá formou **příspěvku do již běžící sbírky**:
 
 ### Jak postupovat:
 
-1. Zvol variantu voucheru (A nebo B)  
+1. Vyplň registrační formulář výše a nech si vygenerovat **číslo poukazu**  
 2. Do sbírky přispěj odpovídající částkou:
    - **900 Kč** – Varianta A  
    - **2300 Kč** – Varianta B  
 3. Jako **jméno dárce uveď číslo vygenerovaného poukazu**  
-4. Po přijetí platby tě budeme kontaktovat s dalšími informacemi a registrací na termín
+4. Po přijetí platby tě budeme kontaktovat s dalšími informacemi a potvrzením termínu
 
 ---
 
