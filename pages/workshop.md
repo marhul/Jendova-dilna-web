@@ -3,9 +3,10 @@ layout: page
 title: Workshop
 subtitle: Informace k workshopu kde se budou sestavovat roboti z dilu z 3D tiskarny
 cover_image: /img/bambu-lab-cyberbrick-ultimate-hardware-kit-862654-cs.png
-permalink: /workshop/
+permalink: /roboworkshop/
 ---
 # Workshop: Sestav si vlastního robota 🤖
+
 
 Přijď si vyzkoušet praktický workshop, kde si **vlastnoručně sestavíš robota na dálkové ovládání**.  
 Workshop je zaměřený na práci s mechanikou, elektronikou a logickým uvažováním – vše hravou a srozumitelnou formou.
