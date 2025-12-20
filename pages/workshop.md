@@ -61,7 +61,7 @@ Vyplň prosím formulář níže – vygeneruje **číslo poukazu** a umožní s
 <div class="embed-wrap" aria-label="Registrace zájemce o workshop">
    <iframe
       class="embed-iframe"
-      src="http://mqtt1.vps.webdock.cloud:8099/"
+      src="https://workshop.jendovadilna.cz/"
       title="Registrace zájemce o workshop"
       loading="lazy"
    ></iframe>
