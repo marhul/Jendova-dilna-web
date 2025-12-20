@@ -27,7 +27,7 @@ Během workshopu si účastníci:
 Roboti, které budeme na workshopu stavět, vychází z oficiální platformy **Bambu Lab CyberBrick**:  
 👉 [CyberBrick SoccerBot – oficiální produkt](https://eu.store.bambulab.com/products/cyberbrick-official-soccerbot)
 
-![SoccerBot](/img/SoccerBot.png)
+![SoccerBot](/img/SoccerBot.jpg)
 
 ---
 
