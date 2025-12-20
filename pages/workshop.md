@@ -10,7 +10,7 @@ permalink: /workshop/
 Přijď si vyzkoušet praktický workshop, kde si **vlastnoručně sestavíš robota na dálkové ovládání**.  
 Workshop je zaměřený na práci s mechanikou, elektronikou a logickým uvažováním – vše hravou a srozumitelnou formou.
 
-![CyberBrick hardware kit](bambu-lab-cyberbrick-ultimate-hardware-kit-862654-cs.png)
+![CyberBrick hardware kit](img/bambu-lab-cyberbrick-ultimate-hardware-kit-862654-cs.png)
 
 ---
 
@@ -27,7 +27,7 @@ Během workshopu si účastníci:
 Roboti, které budeme na workshopu stavět, vychází z oficiální platformy **Bambu Lab CyberBrick**:  
 👉 [CyberBrick SoccerBot – oficiální produkt](https://eu.store.bambulab.com/products/cyberbrick-official-soccerbot)
 
-![SoccerBot](SoccerBot.png)
+![SoccerBot](img/SoccerBot.png)
 
 ---
 
@@ -66,8 +66,6 @@ Vyplň prosím formulář níže – vygeneruje **číslo poukazu** a umožní s
       loading="lazy"
    ></iframe>
 </div>
-
-Pokud se formulář nezobrazuje, otevři ho v novém okně: https://mqtt1.vps.webdock.cloud:8099/
 
 ---
 
