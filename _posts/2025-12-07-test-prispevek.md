@@ -3,13 +3,6 @@ layout: post
 title: Workshop 3D tisku a stavby robůtka – leden 2026
 date: 21.12.2025
 ---
----
-layout: post
-title: "Workshop 3D tisku a stavby robůtka – leden 2026"
-date: 2025-12-21
-categories: [workshopy, 3d-tisk]
----
-
 Máme pro vás novinku, ze které máme velkou radost 🤖🖨️  
 V **lednu 2026** otevíráme **workshop 3D tisku a stavby robůtka**, určený pro **děti od 10 let i dospělé**.
 
