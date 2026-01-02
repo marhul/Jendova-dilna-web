@@ -30,7 +30,7 @@ ulice Česká
   <a href="https://chat.whatsapp.com/" title="WhatsApp skupina" style="margin-right: 1rem; color: #25D366;">
     <i class="fab fa-whatsapp"></i>
   </a>
-  <a href="https://instagram.com/jendovadilna" title="Instagram" style="margin-right: 1rem; color: #E1306C;">
+  <a href="https://instagram.com/jendovadilna.cz" title="Instagram" style="margin-right: 1rem; color: #E1306C;">
     <i class="fab fa-instagram"></i>
   </a>
   <a href="https://facebook.com/jendovadilna" title="Facebook" style="margin-right: 1rem; color: #1877F2;">
