@@ -55,7 +55,6 @@ Kreativní kroužek zaměřený na tvoření z recyklovaných a přírodních ma
 ---
 
 ## 📄 Tvorba z papíru – základní knižní vazba  
-*(1měsíční kurz)*
 
 **Popis:**  
 Krátkodobý kurz zaměřený na práci s papírem, základy knižní vazby a ruční výrobu sešitů a knížek.
@@ -72,7 +71,7 @@ Krátkodobý kurz zaměřený na práci s papírem, základy knižní vazby a ru
 ## 🖨️ Kroužek 3D tisku
 
 **Popis:**  
-Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se seznámí s moderními technologiemi a rozvíjí logické myšlení.
+Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se seznámí s moderními technologiemi a rozvíjí logické myšlení. Během kroužku se postupně postaví robůtek na dálkové ovládání z 3D tiskárny z elektronické stavebnice [CyberBrick](https://makerworld.com/cs/models/1395987-cyberbrick-official-soccerbot) (zájemci si mohou vyhotovený robůtek včetně celé stavebnice [CyberBrick hardware kit](https://eu.store.bambulab.com/products/cyberbrick-hardware-kit) na konci kurzu odkoupit).
 
 **Věk:** 10+ (doporučeno)  
 **Cena:** **900 Kč**  
