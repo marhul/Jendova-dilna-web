@@ -4,133 +4,86 @@ title: Kroužky
 subtitle: Co se bude v dílně nabízet
 permalink: /krouzky/
 ---
-## 🧒👧 Tvoříme se stroji: od nápadu k výrobku!
 
-Kreativní kroužek pro děti, kde se naučí základy 3D tisku, programování a elektroniky. Vše formou hry a vlastních projektů, které si odnesou domů.
+# Nabídka kroužků
 
-**Pro koho:** děti 5–12 let  
-**Délka:** 12–15 lekcí (1 pololetí), 60–90 minut  
-**Velikost skupiny:** 5–10 dětí
+Vyberte si z pestré nabídky volnočasových kroužků pro děti a mládež.  
+Kroužky probíhají v malých skupinách a jsou vedeny zkušenými lektory.
 
 ---
 
-## 📚 Co se naučíme
+## 🎨 Keramika pro nejmenší (6–12 let)
 
-### 🖨️ Blok 1 – Základy 3D tisku (4 lekce)
+**Popis:**  
+Tvořivý keramický kroužek pro mladší děti. Děti se seznámí se základy práce s hlínou, rozvíjí jemnou motoriku, kreativitu a radost z vlastní tvorby.
 
-*Cíl: děti pochopí, jak se plast mění na předmět, poznají základní pojmy a zvládnou jednoduché modelování.*
+**Věk:** 6–12 let  
+**Cena:** **900 Kč**  
+**Den:** **Úterý**  
+**Čas:** **14:30 – 15:55**
 
-**1. Seznámení – Co je 3D tisk?**
-- Bezpečnost u tiskárny
-- Ukázka: filament, extruder, tisková hlava
-- Společně vytiskneme „maskota kroužku" – malého robota
-- Aktivita: děti vybarví obrázek a porovnají s výtiskem
-
-**2. Tvorba vlastního přívěsku (Tinkercad)**
-- Tinkercad v režimu „dětské tvary"
-- Děti vytvoří přívěšek: jejich jméno + symbol
-- Výtisk připravíme na další hodinu
-
-**3. Stavebnice z 3D dílků**
-- Děti v Tinkercadu vytvoří kostku nebo dílek puzzle
-- Výtisky spojí v jednoduchý obrázek nebo mini-stavebnici
-
-**4. Mechanické hračky**
-- Ukázka jednoduchých mechanismů: kolečko, osa, vrtulka
-- Děti si modelují „vrtulku do větru"
-- Ukázka tiskárny v akci
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413461/)
 
 ---
 
-### 💻 Blok 2 – Hrátky s Micro:bit (4–5 lekcí)
+## 🎨 Keramika pro větší (12–18 let)
 
-*Cíl: děti pochopí logiku „akce → reakce", použijí senzory, vytvoří jednoduché interaktivní projekty.*
+**Popis:**  
+Pokročilejší keramická tvorba pro starší děti a mládež. Práce s různými technikami, glazováním a rozvoj vlastního výtvarného stylu.
 
-**5. Úvod do Micro:bitu**
-- Co je to program
-- Bezpečnost, zapojení baterie
-- První program: „Zobraz srdíčko, když zmáčknu tlačítko"
+**Věk:** 12–18 let  
+**Cena:** **900 Kč**  
+**Den:** **Úterý**  
+**Čas:** **16:00 – 17:30**
 
-**6. Krokoměr, kostka, náhodné obrázky**
-- Vysvětlení „náhody"
-- Hra: „Digitální kostka" – děti navrhují vlastní symboly
-
-**7. Reakční hra – kdo zmáčkne rychleji**
-- Práce ve dvojicích
-- Micro:bit ukáže signál → děti mačkají → Micro:bit měří čas
-- Mini-turnaj
-
-**8. Detektor pohybu / hlídací zvířátko**
-- Použití tilt senzoru
-- Když se stroj pohne → ukáže se strašidlo nebo zapípá
-- Děti vytvoří papírové nebo 3D tištěné obaly
-
-**9. Hudba z Micro:bitu**
-- Jednoduché melodie přes piezo
-- Tisk malého „reprosněhuláka" nebo „hudební krabičky"
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413496/)
 
 ---
 
-### ⚡ Blok 3 – Elektronika pro malé (2–3 lekce)
+## ♻️ Recyklo tvoření (6–12 let)
 
-*Cíl: hravě pochopit proud, spínač, LED.*
+**Popis:**  
+Kreativní kroužek zaměřený na tvoření z recyklovaných a přírodních materiálů. Děti se učí udržitelnosti zábavnou a praktickou formou.
 
-**10. Světýlka a spínače**
-- LED má + a − (polarita)
-- Děti skládají obvod z LED + baterie + přepínače
-- Tisk jednoduchých držáků na LED/knoflíkové baterie
+**Věk:** 6–12 let  
+**Cena:** **900 Kč**  
+**Den:** **Středa**  
+**Čas:** **14:30 – 15:55**
 
-**11. Jednoduché blikačky**
-- Vysvětlení rezistoru (jako „škrtítka")
-- Stavba obvodu s blikací LED
-- Možná integrace s Micro:bit jako časovač
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413499/)
 
 ---
 
-### ✨ Blok 4 – Gravírka a personalizace (2 lekce)
+## 📄 Tvorba z papíru – základní knižní vazba  
+*(1měsíční kurz)*
 
-*Cíl: děti zažijí kouzlo „vypálit si svůj návrh".*
+**Popis:**  
+Krátkodobý kurz zaměřený na práci s papírem, základy knižní vazby a ruční výrobu sešitů a knížek.
 
-**12. Gravírování vlastního obrázku**
-- Děti nakreslí černobílý obrázek fixem
-- Naskenujeme a vypálíme na dřevo/karton
-- Každé dítě si odnese vlastní cedulku nebo medaili
+**Věk:** 10+ (doporučeno)  
+**Cena:** **900 Kč**  
+**Den:** **Středa**  
+**Čas:** **16:00 – 17:30**
 
-**13. Kombinované projekty**
-- Dřevěná destička + 3D tištěné prvky
-- Například jmenovka na dveře dítěte
-
----
-
-### 🏆 Závěrečná lekce
-
-**14. Výstavka a soutěž „Moje nejlepší věc"**
-- Děti vystaví svůj nejlepší výtisk nebo projekt
-- Malé diplomy (gravírované)
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413500/)
 
 ---
 
-## 📦 Projekty na celý rok
+## 🖨️ Kroužek 3D tisku
 
-- 🔖 3D tištěná záložka do knihy
-- 📱 3D podstavec pro Micro:bit
-- 🐞 Mini-robot "blikací brouk"
-- 🌬️ Větrník (3D vrtulka + gravírovaná stopka)
-- ⭐ Senzor padající hvězdy (Micro:bit)
-- 🏅 Gravírovaný odznak "Mladý konstruktér"
+**Popis:**  
+Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se seznámí s moderními technologiemi a rozvíjí logické myšlení.
 
----
+**Věk:** 10+ (doporučeno)  
+**Cena:** **900 Kč**  
+**Den:** **Pondělí**  
+**Čas:** **16:30 – 18:00**
 
-## 🛡️ Bezpečnost
-
-- Žádné dítě nesahá do tiskárny během tisku
-- U gravírky vždy ochranné brýle + přítomnost dospělého
-- U elektroniky jen malé napětí (knoflíkové baterie, USB)
-- Krátké aktivity střídáme s pohybem
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/)
 
 ---
 
-> **Kroužky zatím plánujeme.** Pokud máte zájem, [kontaktujte nás](/kontakty) nebo sledujte náš [rozvrh akcí](/rozvrh).
+## 📩 Máte dotaz?
 
-<a href="http://reenio.cz/cs/redirect/reservationpage/24490" class="reenio-reservation-btn" target="_blank" data-no-dialog="1" style="color: #fff; background-color: #f05033; border-radius: 4px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; display: inline-block; padding: 6px 12px; text-decoration: none;">nová rezervace</a>
-<script src="https://reenio.cz/cs/GI2DIOJQ/widget-reservation-btn.js" async defer></script>
+Nevíte si rady s výběrem kroužku nebo máte speciální požadavky?  
+[Neváhejte nás kontaktovat.](https://jendovadilna.cz/kontakty/)
