@@ -44,9 +44,11 @@ ulice Česká 245/33, 370 01 České Budějovice
   <a href="https://facebook.com/jendovadilna" title="Facebook" style="margin-right: 1rem; color: #1877F2;">
     <i class="fab fa-facebook"></i>
   </a>
+  <!--
   <a href="https://patreon.com/jendovadilna" title="Patreon" style="margin-right: 1rem; color: #FF424D;">
     <i class="fab fa-patreon"></i>
   </a>
+  -->
 </div>
 
 ---
