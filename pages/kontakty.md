@@ -12,6 +12,15 @@ permalink: /kontakty/
 
 **Účel spolku:** Vytvářet a podporovat prostor pro kulturní, vzdělávací, společenské a sportovní a jiné zájmové aktivity, které přispívají k rozvoji osobnosti, tvořivosti, komunity a vzájemné solidarity.
 
+Spolek vznikl z potřeby vytvořit v Českých Budějovicích živé a přátelské místo pro setkávání, tvoření a sdílení. Jendova dílna nese jméno **Jana „Jendy“ Vacky** – mladého keramika s velkým srdcem, talentem a láskou k rodině, přátelům, dětem i přírodě.
+
+V roce 2025 nás Jan ve věku 21 let náhle opustil. Chceme ale, aby to nejdůležitější zůstalo dál: radost z tvorby, lidskost a chuť být spolu.
+
+**Na čem stojíme:**
+- přátelství, sounáležitost a bezpečný prostor pro děti i dospělé
+- kreativita, ruční práce a radost z vlastního výrobku
+- smysluplné volnočasové aktivity, které propojují komunitu
+
 ---
 
 ## Kde nás najdete

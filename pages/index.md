@@ -1,53 +1,90 @@
 ---
 layout: page
-title: Jendova dílna
-subtitle: Místo, kde dobro tvoří dál
+title: Kroužky
+subtitle: Co se bude v dílně nabízet
 permalink: /
 ---
 
-**Jendova dílna** je plánovaná kreativní a keramická dílna v centru Českých Budějovic, která ponese jméno **Jana „Jendy" Vacky**, mladého keramika s velkým srdcem a talentem. Vzniká jako živý prostor pro setkávání, tvoření, sdílení radosti a pokračování v tom, co měl Jeníček nejraději – keramiku, lidi a společný čas.
+# Nabídka kroužků
+
+Vyberte si z pestré nabídky volnočasových kroužků pro děti a mládež.  
+Kroužky probíhají v malých skupinách a jsou vedeny zkušenými lektory.
 
 ---
 
-## Proč Jendova dílna vzniká
+## 🎨 Keramika pro nejmenší (6–12 let)
 
-Jan Vacka byl mladý člověk s laskavou povahou, mimořádným talentem pro keramický design a velkou láskou k rodině, přátelům, dětem a přírodě. V roce 2025 nás ve věku 21 let náhle opustil a **Jendova dílna má udržet jeho odkaz**, radost z tvorby a dobro v pohybu.
+**Popis:**  
+Tvořivý keramický kroužek pro mladší děti. Děti se seznámí se základy práce s hlínou, rozvíjí jemnou motoriku, kreativitu a radost z vlastní tvorby.
 
-Cílem je vytvořit přátelské místo pro děti, přátele i širší veřejnost, kde se bude tvořit, hrát, sdílet a podporovat vzájemná sounáležitost. Dílna má být symbolem přátelství, kreativity a lásky k ručně tvořeným věcem.
+**Věk:** 6–12 let  
+**Cena:** **900 Kč**  
+**Den:** **Úterý**  
+**Čas:** **14:30 – 15:55**
 
----
-
-## Na co se sbírka používá
-
-Vybrané prostředky ze sbírky jsou určeny na:
-
-- **Nájem, energie, pojištění** a další provozní náklady spojené se vznikem a chodem dílny
-- **Úpravy prostoru**, aby se z něj mohla stát plnohodnotná keramická a kreativní dílna
-- **Nákup pomůcek a nástrojů** pro výtvarnou činnost a práci s keramikou, včetně keramické pece
-- **Výtvarné workshopy** mimo domovskou dílnu, pokud se podaří vybrat více prostředků
-
-> Pokud by se cílovou částku nepodařilo vybrat, plánuje se podpora **Ateliéru Alšovka** a paní **Evy Drančákové**, která Jendovi pomohla objevit lásku ke keramice.
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413461/)
 
 ---
 
-## Jak můžete Jendovu dílnu podpořit
+## 🎨 Keramika pro větší (12–18 let)
 
-Každý finanční příspěvek přibližuje otevření Jendovy dílny a pomáhá udržet Jendovo světlo živé prostřednictvím dobrých lidí a výrobků tvořených srdcem. Zapojit se můžete i:
+**Popis:**  
+Pokročilejší keramická tvorba pro starší děti a mládež. Práce s různými technikami, glazováním a rozvoj vlastního výtvarného stylu.
 
-- Organizací benefičních akcí
-- Sbírkami na pracovišti
-- Šířením příběhu dál
+**Věk:** 12–18 let  
+**Cena:** **900 Kč**  
+**Den:** **Úterý**  
+**Čas:** **16:00 – 17:30**
 
-### Chcete Jendovu dílnu podpořit?
-
-Navštivte prosím stránku sbírky na Donio, kde je možné přispět online:
-
-👉 **[Podpořte Jendovu dílnu na Donio](https://donio.cz/jendova-dilna-pokracovani-pribehu-plneho-laskavosti)**
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413496/)
 
 ---
 
-## Odkaz Jeníčka Vacky
+## ♻️ Recyklo tvoření (6–12 let)
 
-Jendova dílna má být společným dílem všech, kdo mají chuť zanechat v ní kousek svého srdce – ať už finanční podporou, účastí na tvoření, nebo šířením myšlenky dál.
+**Popis:**  
+Kreativní kroužek zaměřený na tvoření z recyklovaných a přírodních materiálů. Děti se učí udržitelnosti zábavnou a praktickou formou.
 
-*Každý, kdo se bude na vzniku dílny podílet, se stává součástí příběhu, který neskončil Jendovým odchodem, ale pokračuje v podobě dobra a radosti, které společně vytvoříme.*
+**Věk:** 6–12 let  
+**Cena:** **900 Kč**  
+**Den:** **Středa**  
+**Čas:** **14:30 – 15:55**
+
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413499/)
+
+---
+
+## 📄 Tvorba z papíru – základní knižní vazba  
+
+**Popis:**  
+Krátkodobý kurz zaměřený na práci s papírem, základy knižní vazby a ruční výrobu sešitů a knížek.
+
+**Věk:** 10+ (doporučeno)  
+**Cena:** **900 Kč**  
+**Den:** **Středa**  
+**Čas:** **16:00 – 17:30**
+
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413500/)
+
+---
+
+## 🖨️ Kroužek 3D tisku
+
+**Popis:**  
+Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se seznámí s moderními technologiemi a rozvíjí logické myšlení. Během kroužku se postupně postaví robůtek na dálkové ovládání z 3D tiskárny z elektronické stavebnice [CyberBrick](https://makerworld.com/cs/models/1395987-cyberbrick-official-soccerbot) (zájemci si mohou vyhotovený robůtek včetně celé stavebnice [CyberBrick hardware kit](https://eu.store.bambulab.com/products/cyberbrick-hardware-kit) na konci kurzu odkoupit).
+
+[Osnova a náplň kroužku](/krouzek3dtisku/)
+
+**Věk:** 10+ (doporučeno)  
+**Cena:** **900 Kč**  
+**Den:** **Pondělí**  
+**Čas:** **16:30 – 18:00**
+
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/)
+
+---
+
+## 📩 Máte dotaz?
+
+Nevíte si rady s výběrem kroužku nebo máte speciální požadavky?  
+[Neváhejte nás kontaktovat.](https://jendovadilna.cz/kontakty/)

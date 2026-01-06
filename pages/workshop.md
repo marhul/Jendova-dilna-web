@@ -101,12 +101,6 @@ CyberBrick kit umožňuje **následnou přestavbu robota na jiné typy**.
 
 ---
 
-## Zakoupení poukázky na workshop
-
-Platba probíhá formou **příspěvku do již běžící sbírky**:
-
-👉 https://donio.cz/jendova-dilna-pokracovani-pribehu-plneho-laskavosti
-
 ### Jak postupovat:
 
 1. Vyplň registrační formulář výše a nech si vygenerovat **číslo poukazu**  

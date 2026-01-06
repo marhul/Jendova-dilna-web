@@ -21,12 +21,10 @@ avatar: /img/jendovadilnaspolek_logo_200x200.png
 # Navigační menu
 navbar-links:
   Kroužky: "krouzky"
-  Workshop 1/2026: "workshop3D"
   Aktuality: "aktuality"
   Kalendář: "kalendar"
   Galerie: "galerie"
   Kontakty: "kontakty"
-  ❤️ Podpořte nás ↗: "https://donio.cz/jendova-dilna-pokracovani-pribehu-plneho-laskavosti"
 
 # Nastavení footer
 author: Jendova dílna
