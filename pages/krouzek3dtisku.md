@@ -19,7 +19,7 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 - **Počet lekcí:** 19
 - **Cena:** 900 Kč / dítě / pololetí
 - **Kapacita:** malá skupina (max. 7 dětí)
-- **Místo:** Jendova dílna
+- **Místo:** Jendova dílna, ulice Česká 245/33, České Budějovice
 - **Den:** **Pondělí**  
 - **Čas:** **16:30 – 18:00**
 - **Věk:** doporučeno pro děti cca 6–12 let
