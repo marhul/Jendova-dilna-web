@@ -75,10 +75,11 @@ Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se se
 
 [Osnova a náplň kroužku](/krouzek3dtisku/)
 
-**Věk:** 10+ (doporučeno)  
+**Věk:** 5-7 let (doporučeno)   
 **Cena:** **900 Kč**  
 **Den:** **Pondělí**  
 **Čas:** **16:30 – 18:00**
+**Vedoucí kroužku:** Ing. Martin Hulík
 
 [👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/)
 
