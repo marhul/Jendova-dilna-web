@@ -23,6 +23,7 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 - **Den:** **Pondělí**  
 - **Čas:** **16:30 – 18:00**
 - **Věk:** doporučeno pro děti 5-7 let
+- **Vedoucí kroužku:** **Ing. Martin Hulík**
 
 [👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/)
 
