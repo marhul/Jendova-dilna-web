@@ -18,11 +18,11 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 - **Termín:** 2. 2. 2026 – 22. 6. 2026
 - **Počet lekcí:** 19
 - **Cena:** 900 Kč / dítě / pololetí
-- **Kapacita:** malá skupina (max. 7 dětí)
+- **Kapacita:** malá skupina (max. 8 dětí)
 - **Místo:** Jendova dílna, ulice Česká 245/33, České Budějovice
 - **Den:** **Pondělí**  
 - **Čas:** **16:30 – 18:00**
-- **Věk:** doporučeno pro děti cca 6–12 let
+- **Věk:** doporučeno pro děti 5-7 let
 
 [👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/)
 
