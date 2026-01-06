@@ -79,7 +79,7 @@ Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se se
 **Cena:** **900 Kč**  
 **Den:** **Pondělí**  
 **Čas:** **16:30 – 18:00**
-**Vedoucí kroužku:** **Ing. Martin Hulík**
+**Vedoucí kroužku:** Ing. Martin Hulík
 
 
 [👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/)

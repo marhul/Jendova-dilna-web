@@ -23,7 +23,7 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 - **Den:** **Pondělí**  
 - **Čas:** **16:30 – 18:00**
 - **Věk:** doporučeno pro děti 5-7 let
-- **Vedoucí kroužku:** **Ing. Martin Hulík**
+- **Vedoucí kroužku:** Ing. Martin Hulík
 
 [👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/)
 
@@ -32,32 +32,31 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 ## 📚 Co děti v kroužku zažijí a naučí se
 
 ### 🖨️ 3D tisk a geometrie
-- seznámení s 3D tiskárnou a bezpečností
-- ukázky možností 3D tisku v praxi
-- tvorba vlastních vícero barevných jmenovek
+- seznámení s 3D tiskárnou
+- ukázky možností 3D tisku na hračkách a pomůckách
+- tvorba vlastních barevných jmenovek
 - tisk 2D geometrických tvarů (čtverec, kruh, trojúhelník…)
 - tisk 3D těles (krychle, koule, válec…)
 
 ### ♻️ Recyklace plastů
 - co je plast a odkud pochází
-- sestavení zařízení na recyklaci PET lahví
-- výroba filamentu z PET
+- ukázka práce na zařízení hobby recyklaci PET lahví
+- výroba filamentu z PET materiálu
 - pokus o tisk z vlastního recyklovaného materiálu
 
 ### ✨ Gravírování do dřeva
 - seznámení s gravírovacím strojem
 - návrh vlastního motivu
 - výroba gravírovaného podtácku se jménem
-- kombinace 3D tisku a dřeva
 
 ### 🤖 Stavba robůtka
-- seznámení se stavebnicí **CyberBrick Hardware Kit**
-- mechanické spojování dílů (šroubování, konstrukce)
+- seznámení se stavebnicí [CyberBrick Hardware Kit](https://eu.store.bambulab.com/products/cyberbrick-hardware-kit)
+- mechanické spojování dílů (šroubování, lepení)
 - základní zapojení elektronických komponent
 - sestavení dálkově ovládaného robůtka
 - závěrečný robotický zápas – cílem je dopravit míček do soupeřovy branky
 
-> 🔧 Robůtek ze stavebnice CyberBrick je možné **na konci kroužku dokoupit** a ponechat si ho doma (není zahrnuto v ceně kroužku).
+> 🔧 Robůtka ze stavebnice CyberBrick je možné **na konci kroužku zakoupit** a ponechat si ho na doma (není zahrnuto v ceně kroužku).
 
 ---
 
@@ -65,7 +64,7 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 
 ### BLOK A – Seznámení & 3D tisk (1.–6. lekce)
 1. Vítejte v dílně – bezpečnost, ukázky, první tisk
-2. Jmenovky se jménem – vícero barevný 3D tisk
+2. Jmenovky se jménem – barevný 3D tisk
 3. Geometrické tvary (2D) – tisk a poznávání
 4. Geometrická tělesa (3D) – objem, tvar, porovnávání
 5. Co všechno umí 3D tisk – praktické využití
@@ -79,7 +78,7 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 ### BLOK C – Gravírování & personalizace (10.–12. lekce)
 10. Co je gravírování – bezpečnost, návrh motivu
 11. Gravírovaný podtácek se jménem
-12. Kombinovaný projekt (3D tisk + dřevo)
+12. Kombinovaný projekt (gravírování a vymalování fixkami na dřevo)
 
 ### BLOK D – Robůtek CyberBrick (13.–18. lekce)
 13. Co je robot – díly, principy, plán stavby
@@ -97,9 +96,9 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 ## 🛡️ Bezpečnost a přístup
 
 - práce se stroji vždy pod dohledem lektora
-- děti nesahají do tiskárny během tisku
+- děti nesahají do tiskárny během tisku, pouze se dívají (je to pro děti zajímavé když tiskárna tiskne a tvoří před očima objekt)
 - u gravírování jsou používány ochranné pomůcky
-- elektronika pouze s bezpečným nízkým napětím
+- elektronika pouze s bezpečným nízkým napětím z malých baterií
 - malé skupiny umožňují individuální přístup
 
 ---
