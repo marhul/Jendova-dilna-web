@@ -1,9 +1,5 @@
 ---
 layout: page
-title: Kroužek 3D tisku
----
----
-layout: page
 title: Kroužek 3D tisku a robotiky
 subtitle: Tvoření, technologie a vlastní robůtek v Jendově dílně
 permalink: /krouzek3dtisku/
@@ -24,9 +20,11 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 - **Cena:** 900 Kč / dítě / pololetí
 - **Kapacita:** malá skupina (max. 7 dětí)
 - **Místo:** Jendova dílna
+- **Den:** **Pondělí**  
+- **Čas:** **16:30 – 18:00**
 - **Věk:** doporučeno pro děti cca 6–12 let
 
-👉 **Přihlášení:** https://jendovadilna.cz/krouzek3dtisku/
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/)
 
 ---
 
@@ -111,7 +109,3 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 - rozvíjí technické myšlení, zručnost a spolupráci
 - učí se chápat technologie, ne je jen pasivně používat
 - malá skupina a osobní přístup v opravdové dílně
-
-👉 **Počet míst je omezen.** Přihlaste své dítě včas:
-https://jendovadilna.cz/krouzek3dtisku/
-
