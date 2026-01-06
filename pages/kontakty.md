@@ -25,9 +25,8 @@ V roce 2025 nás Jan ve věku 21 let náhle opustil. Chceme ale, aby to nejdůle
 
 ## Kde nás najdete
 
-ulice Česká
-
-370 01 České Budějovice
+ulice Česká 245/33, 370 01 České Budějovice
+<iframe style="border:none" src="https://mapy.com/s/modafovuvo" width="500" height="333" frameborder="0"></iframe>
 
 ---
 
