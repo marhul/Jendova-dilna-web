@@ -73,7 +73,7 @@ Krátkodobý kurz zaměřený na práci s papírem, základy knižní vazby a ru
 **Popis:**  
 Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se seznámí s moderními technologiemi a rozvíjí logické myšlení. Během kroužku se postupně postaví robůtek na dálkové ovládání z 3D tiskárny z elektronické stavebnice [CyberBrick](https://makerworld.com/cs/models/1395987-cyberbrick-official-soccerbot) (zájemci si mohou vyhotovený robůtek včetně celé stavebnice [CyberBrick hardware kit](https://eu.store.bambulab.com/products/cyberbrick-hardware-kit) na konci kurzu odkoupit).
 
-[Osnova a náplň kroužku](/krouzek3dtisku/)
+[👉 Osnova a náplň kroužku](/krouzek3dtisku/)
 
 **Věk:** 10+ (doporučeno)  
 **Cena:** **900 Kč**  
