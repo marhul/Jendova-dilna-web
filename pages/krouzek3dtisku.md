@@ -25,7 +25,7 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 - **Věk:** doporučeno pro děti 5-7 let
 - **Vedoucí kroužku:** Ing. Martin Hulík
 
-[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/)
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1414053/) (přihlášku je možné vyplnit po kliknutí na událost "Kroužek 3D tisku" v kalendáři v odkazu)
 
 ---
 
