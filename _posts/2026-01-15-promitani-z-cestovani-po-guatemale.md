@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Promítání z cestování po Guatemale
+title: Pozvánka na promítání z cestování po Guatemale
 date: |-
   📅 25. 1. 2026 od 18.00
   📍 Jendova dílna, Česká ulice 33/245, České Budějovice
