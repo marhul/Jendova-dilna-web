@@ -42,7 +42,10 @@ Příspěvky na provoz spolku i dary můžete posílat na tento účet:
 
 💳 **Bankovní číslo účtu:** 278828128/0600
 
-<div class="contact-icons" style="font-size: 2rem; margin: 2rem 0;">
+--- 
+## Sociální služby
+
+<div class="contact-icons" style="font-size: 2rem; margin: 2rem 0; display: flex; justify-content: center;">
   <a href="https://chat.whatsapp.com/" title="WhatsApp skupina" style="margin-right: 1rem; color: #25D366;">
     <i class="fab fa-whatsapp"></i>
   </a>
@@ -58,13 +61,3 @@ Příspěvky na provoz spolku i dary můžete posílat na tento účet:
   </a>
   -->
 </div>
-
----
-
-## WhatsApp skupina
-
-Připojte se k naší WhatsApp skupině pro aktuální informace o akcích a workshopech:
-
-👉 **[Připojit se do WhatsApp skupiny](https://chat.whatsapp.com/)**
-
-*Odkaz bude brzy aktivní*
