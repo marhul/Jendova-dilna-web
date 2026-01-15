@@ -2,7 +2,7 @@
 layout: post
 title: Pozvánka na promítání z cestování po Guatemale
 date: 15.1.2026
-cover_image: img/20260125_PrednaskaGuatemala.jpg
+cover_image: /img/20260125_PrednaskaGuatemala.jpg
 ---
 ![Pozvánka - promítání z cestování po Guatemale](/img/20260125_PrednaskaGuatemala.jpg)
 
