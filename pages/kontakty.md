@@ -34,6 +34,14 @@ ulice Česká 245/33, 370 01 České Budějovice
 
 📧 **E-mail:** info<!-- mail -->@<!-- protect -->jendovadilna<!-- spam -->.cz
 
+---
+
+## Bankovní účet
+
+Příspěvky na provoz spolku i dary můžete posílat na tento účet:
+
+💳 **Bankovní číslo účtu:** 278828128/0600
+
 <div class="contact-icons" style="font-size: 2rem; margin: 2rem 0;">
   <a href="https://chat.whatsapp.com/" title="WhatsApp skupina" style="margin-right: 1rem; color: #25D366;">
     <i class="fab fa-whatsapp"></i>
