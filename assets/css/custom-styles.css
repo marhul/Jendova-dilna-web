@@ -32,9 +32,21 @@
 }
 
 /* Fotky lektorů */
-.lecturer-photo {
-  width: 50%;
-  height: auto;
+.lecturer-photo,
+.post-content img.lecturer-photo,
+.page-content img.lecturer-photo,
+main img.lecturer-photo {
+  width: 50% !important;
+  height: auto !important;
   display: block;
   margin: 0 auto 1rem;
+}
+
+@media (max-width: 576px) {
+  .lecturer-photo,
+  .post-content img.lecturer-photo,
+  .page-content img.lecturer-photo,
+  main img.lecturer-photo {
+    width: 100% !important;
+  }
 }
