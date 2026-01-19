@@ -29,7 +29,7 @@ Lenička je lektorka, která dětem dává prostor zkoušet, objevovat a mít ra
 
 <img class="lecturer-photo" src="/img/photos/lektor_MartinHulik.png" alt="Martin Hulík">
 
-Martin je nadšenec do elektroniky a nových technologií, věčný bastlíř a (v tom nejlepším slova smyslu) „hračička“ – svět bez skládání, zkoušení a vymýšlení drobných zlepšení si neumí představit. Jako táta dvou předškoláků dobře ví, že u dětí ve věku 5–12 let je nejdůležitější zážitek a radost z objevování.
+Martin je nadšenec do elektroniky a nových technologií, věčný bastlíř a (v tom nejlepším slova smyslu) „hračička“ – svět bez skládání, zkoušení a vymýšlení drobných zlepšení si neumí představit. Jako táta dvou předškoláků dobře ví, že u dětí je důležitý zážitek a radost z objevování nových věcí.
 
 Na kroužku vede děti krok za krokem, srozumitelně a trpělivě. Dává pozor, aby se děti u techniky cítily jistě a bezpečně, a zároveň si odnesly pocit „já to dokážu sám“.
 
