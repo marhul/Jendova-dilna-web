@@ -17,7 +17,7 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 
 - **Termín:** 2. 2. 2026 – 22. 6. 2026
 - **Počet lekcí:** 19
-- **Cena:** 900 Kč / dítě / pololetí
+- **Cena:** **900 Kč / dítě / pololetí**
 - **Kapacita:** malá skupina (max. 8 dětí)
 - **Místo:** Jendova dílna, ulice Česká 245/33, České Budějovice
 - **Den:** **Pondělí**  
@@ -25,9 +25,7 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 - **Věk:** doporučeno pro děti 5-7 let
 - **Vedoucí kroužku:** Ing. Martin Hulík
 
-<a href="https://jendova-dilna.reenio.cz/cs/term/P1414053/" target="_blank" rel="noopener noreferrer">
-👉 Vyplnit přihlášku
-</a> (přihlášku je možné vyplnit po kliknutí na událost "Kroužek 3D tisku" v kalendáři v odkazu)
+<b>Naplnena kapacita</b>
 
 ---
 

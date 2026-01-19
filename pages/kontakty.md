@@ -34,6 +34,9 @@ ulice Česká 245/33, 370 01 České Budějovice
 
 📧 **E-mail:** info<!-- mail -->@<!-- protect -->jendovadilna<!-- spam -->.cz
 
+📞 **Telefon:** +420 776 777 528
+
+
 ---
 
 ## Bankovní účet
@@ -41,6 +44,10 @@ ulice Česká 245/33, 370 01 České Budějovice
 Příspěvky na provoz spolku i dary můžete posílat na tento účet:
 
 💳 **Bankovní číslo účtu:** 278828128/0600
+
+![QR platba – finanční dar](/img/qrplatba_financnidar.png)
+
+Na přijatou platbu vystavíme **potvrzení o finančním daru**. Do **zprávy pro příjemce** u platby prosím uveďte e-mail, na který pošleme potvrzení.
 
 --- 
 ## Sociální služby
