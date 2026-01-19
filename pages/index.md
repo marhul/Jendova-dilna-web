@@ -85,7 +85,7 @@ Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se se
 - **Vedoucí kroužku:** Ing. Martin Hulík
 
 
-<b>Naplnena kapacita</b>
+<b>Naplněná kapacita kroužku</b>
 
 ---
 
