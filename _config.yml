@@ -21,6 +21,7 @@ avatar: /img/jendovadilnaspolek_logo_200x200.png
 # Navigační menu
 navbar-links:
   Kroužky: "index"
+  Naši lektoři: "lektori"
   Aktuality: "aktuality"
   Kalendář: "kalendar"
   Galerie: "galerie"
