@@ -13,7 +13,7 @@ Za každým kroužkem stojí člověk, který děti podporuje, motivuje a pomáh
 
 ## Lenička
 
-![Lenička](/img/photos/lektorka_Lenicka.png))
+<img class="lecturer-photo" src="/img/photos/lektorka_Lenicka.png" alt="Lenička">
 
 Lenička je lektorka, která dětem dává prostor zkoušet, objevovat a mít radost z tvorby – nejen z výsledku. Umí děti povzbudit, když se něco nepovede, a zároveň je jemně vést k trpělivosti a pečlivosti. Díky tomu si děti z kroužků odnášejí nejen výrobky, ale i sebejistotu a chuť tvořit dál.
 
@@ -27,11 +27,11 @@ Lenička je lektorka, která dětem dává prostor zkoušet, objevovat a mít ra
 
 ## Martin Hulík
 
-![Martin Hulík](/img/photos/lektor_MartinHulik.png))
+<img class="lecturer-photo" src="/img/photos/lektor_MartinHulik.png" alt="Martin Hulík">
 
 Martin je nadšenec do elektroniky a nových technologií, věčný bastlíř a (v tom nejlepším slova smyslu) „hračička“ – svět bez skládání, zkoušení a vymýšlení drobných zlepšení si neumí představit. Jako táta dvou předškoláků dobře ví, že u dětí ve věku 5–12 let je nejdůležitější zážitek a radost z objevování.
 
 Na kroužku vede děti krok za krokem, srozumitelně a trpělivě. Dává pozor, aby se děti u techniky cítily jistě a bezpečně, a zároveň si odnesly pocit „já to dokážu sám“.
 
 **Vede kroužek:**
-- Kroužek 3D tisku
+- [Kroužek 3D tisku](/krouzek3dtisku/)

@@ -30,3 +30,11 @@
     min-height: 2040px;
   }
 }
+
+/* Fotky lektorů */
+.lecturer-photo {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem;
+}
