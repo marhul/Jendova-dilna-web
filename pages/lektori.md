@@ -22,6 +22,7 @@ Lenička je lektorka, která dětem dává prostor zkoušet, objevovat a mít ra
 - Keramika pro větší (12–18 let)
 - Recyklo tvoření (6–12 let)
 - Tvorba z papíru – základní knižní vazba
+- Keramika pro dospělé
 
 ---
 

@@ -40,6 +40,20 @@ Pokročilejší keramická tvorba pro starší děti a mládež. Práce s různ�
 
 ---
 
+## 🎨 Keramika pro dospělé
+
+**Popis:**  
+Keramický kroužek pro dospělé jako příjemný kreativní relax po práci. Vyzkoušíte si práci s hlínou od základů (modelování, vymačkávání, jednoduché techniky) a postupně se dostanete i k dekorování a glazování. Kurz je vhodný pro začátečníky i mírně pokročilé – můžete si vytvořit vlastní praktické i dekorativní výrobky podle vlastní představivosti.
+
+**Věk:** 18+  
+**Cena:** **1200 Kč**  
+**Den:** **Úterý**  
+**Čas:** **18:00 – 19:30**
+
+[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413497R117735/2026-02-03;viewMode=day)
+
+---
+
 ## ♻️ Recyklo tvoření (6–12 let)
 
 **Popis:**  
@@ -67,6 +81,7 @@ Krátkodobý kurz zaměřený na práci s papírem, základy knižní vazby a ru
 [👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413500/)
 
 ---
+
 
 ## 🖨️ Kroužek 3D tisku
 
