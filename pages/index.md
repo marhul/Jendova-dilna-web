@@ -22,7 +22,7 @@ Tvořivý keramický kroužek pro mladší děti. Děti se seznámí se základy
 **Den:** **Úterý**  
 **Čas:** **14:30 – 15:55**
 
-[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413461/)
+[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3178)
 
 ---
 
@@ -36,7 +36,7 @@ Pokročilejší keramická tvorba pro starší děti a mládež. Práce s různ�
 **Den:** **Úterý**  
 **Čas:** **16:00 – 17:30**
 
-[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413496/)
+[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3179)
 
 ---
 
@@ -64,7 +64,7 @@ Kreativní kroužek zaměřený na tvoření z recyklovaných a přírodních ma
 **Den:** **Středa**  
 **Čas:** **14:30 – 15:55**
 
-[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413499/)
+[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3180)
 
 ---
 
@@ -78,7 +78,7 @@ Krátkodobý kurz zaměřený na práci s papírem, základy knižní vazby a ru
 **Den:** **Středa**  
 **Čas:** **16:00 – 17:30**
 
-[👉 Vyplnit přihlášku](https://jendova-dilna.reenio.cz/cs/term/P1413500/)
+[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3181)
 
 ---
 
