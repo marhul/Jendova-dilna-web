@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cestovatelské vyprávění z Izraele
-date: 15.2.2026
+date: 29.1.2026
 cover_image: img/WhatsApp Image 2026-01-29 at 07.18.25.jpeg
 ---
 Zveme vás na cestopisný večer věnovaný Izraeli – krajině smlouvy a krajině konfliktu. Fotograf a cestovatel Josef Kaňkovský vás provede jedinečnou zemí, kde se pradávné biblické příběhy setkávají se současnou realitou.
