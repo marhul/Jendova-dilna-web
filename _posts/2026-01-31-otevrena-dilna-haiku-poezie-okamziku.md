@@ -11,8 +11,11 @@ Pod vedením lektora, spisovatele a zakladatele básnické skupiny Pupalka Pavla
 Setkání proběhne v klidné a inspirativní atmosféře Jendovy dílny. Prostor bude nejen pro psaní, ale i pro sdílení textů, společné čtení a rozhovor o poezii.
 
 📅 1. 3. 2026 od 16.00 do 18.00
+
 📍 Jendova dílna, Česká ulice 33/245, České Budějovice
+
 🎟 Vstupné dle aktuálních podmínek / viz registrace
+
 🎤 Pavel Janšta
 
 Není potřeba žádná předchozí zkušenost s poezií – stačí chuť pozorovat svět a hrát si se slovy. Kapacita míst je omezená, proto doporučujeme rezervaci předem.
