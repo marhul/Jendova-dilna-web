@@ -21,5 +21,5 @@ Setkání proběhne v klidné a inspirativní atmosféře Jendovy dílny. Prosto
 Není potřeba žádná předchozí zkušenost s poezií – stačí chuť pozorovat svět a hrát si se slovy. Kapacita míst je omezená, proto doporučujeme rezervaci předem.
 
 <a href="https://jendova-dilna.reenio.cz/cs/term/P1453849/2026-03-01;viewMode=day" target="_blank" rel="noopener noreferrer">
-  <b>Registrace na přednášku</b>
+  <b>Registrace na workshop</b>
 </a>
