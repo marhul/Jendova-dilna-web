@@ -12,6 +12,22 @@ Kroužky probíhají v malých skupinách a jsou vedeny zkušenými lektory.
 
 ---
 
+## 🎨 Hokus pokus
+
+**Popis:**  
+Bláznivé, zábavné i vědecké pokusy a experimenty. Bádání, které můžeš doma ukázat i mamce, taťkovi či sourozencům nejen z oblasti fyziky.
+
+**Věk:** 6–12 let  
+**Cena:** **1500 Kč**  
+**Den:** **Pondělí**  
+**Čas:** **15:00 – 16:30**
+**Lektor:** **Iva Rottnerová**  
+
+
+[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3178)
+
+---
+
 ## 🎨 Keramika pro nejmenší (6–12 let)
 
 **Popis:**  
@@ -54,15 +70,16 @@ Keramický kroužek pro dospělé jako příjemný kreativní relax po práci. V
 
 ---
 
-## ♻️ Recyklo tvoření (6–12 let)
+## ♻️ Tvoření z odpadu (6–12 let)
 
 **Popis:**  
 Kreativní kroužek zaměřený na tvoření z recyklovaných a přírodních materiálů. Děti se učí udržitelnosti zábavnou a praktickou formou.
 
 **Věk:** 6–12 let  
-**Cena:** **1200 Kč**  
-**Den:** **Středa**  
-**Čas:** **14:30 – 15:55**
+**Cena:** **1500 Kč**  
+**Den:** **Úterý**  
+**Čas:** **14:30 – 16:00**
+**Lektor:** **Iva Rottnerová**  
 
 [👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3180)
 
@@ -97,7 +114,7 @@ Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se se
 - **Den:** **Pondělí**  
 - **Čas:** **16:30 – 18:00**
 - **Věk:** doporučeno pro děti 5-7 let
-- **Vedoucí kroužku:** Ing. Martin Hulík
+- **Lektor:** Ing. Martin Hulík
 
 
 <b>Naplněná kapacita kroužku</b>

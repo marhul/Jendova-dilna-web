@@ -20,7 +20,6 @@ Lenička je lektorka, která dětem dává prostor zkoušet, objevovat a mít ra
 **Vede kroužky / kurzy:**
 - Keramika pro nejmenší (6–12 let)
 - Keramika pro větší (12–18 let)
-- Recyklo tvoření (6–12 let)
 - Tvorba z papíru – základní knižní vazba
 - Keramika pro dospělé
 
@@ -36,3 +35,13 @@ Na kroužku vede děti krok za krokem, srozumitelně a trpělivě. Dává pozor,
 
 **Vede kroužek:**
 - [Kroužek 3D tisku](/krouzek3dtisku/)
+
+---
+
+## Iva Rottnerová
+
+Iva je lektorka, která v dětech probouzí zvídavost, fantazii a radost z objevování. Vede je k tomu, aby tvořily z obyčejných věcí neobyčejné nápady a nebály se experimentovat. V kroužku Tvoření z odpadu rozvíjí kreativitu i cit pro ekologii a dává věcem nový život. V Hokus pokus dětem hravou formou přibližuje svět pokusů a jednoduchého vědeckého bádání. Děti si z jejích lekcí odnášejí nejen výrobky a zážitky, ale i sebevědomí a chuť objevovat dál.
+
+**Vede kroužky / kurzy:**
+- Hokus pokus
+- Tvoření z odpadu
