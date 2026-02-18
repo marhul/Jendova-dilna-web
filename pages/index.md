@@ -24,7 +24,7 @@ Bláznivé, zábavné i vědecké pokusy a experimenty. Bádání, které může
 **Lektor:** **Iva Rottnerová**  
 
 
-[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3178)
+[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1471839/2026-02-23;viewMode=day)
 
 ---
 
@@ -38,7 +38,7 @@ Tvořivý keramický kroužek pro mladší děti. Děti se seznámí se základy
 **Den:** **Úterý**  
 **Čas:** **14:30 – 15:55**
 
-[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3178)
+[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1470825/2026-02-24;viewMode=day)
 
 ---
 
@@ -52,7 +52,7 @@ Pokročilejší keramická tvorba pro starší děti a mládež. Práce s různ�
 **Den:** **Úterý**  
 **Čas:** **16:00 – 17:30**
 
-[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3179)
+[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1470826/2026-02-24;viewMode=day)
 
 ---
 
@@ -81,7 +81,7 @@ Kreativní kroužek zaměřený na tvoření z recyklovaných a přírodních ma
 **Čas:** **14:30 – 16:00**
 **Lektor:** **Iva Rottnerová**  
 
-[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3180)
+[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1470804/2026-02-24;viewMode=day)
 
 ---
 
@@ -95,7 +95,7 @@ Krátkodobý kurz zaměřený na práci s papírem, základy knižní vazby a ru
 **Den:** **Středa**  
 **Čas:** **16:00 – 17:30**
 
-[👉 Vyplnit přihlášku](https://ddmcb.iddm.cz/detail/3181)
+[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1470805/2026-02-25;viewMode=day)
 
 ---
 
