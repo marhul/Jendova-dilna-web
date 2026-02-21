@@ -2,7 +2,7 @@
 layout: post
 title: Promítání z cestování po Ománu
 date: 15.3.2026
-cover_image: img/4bb2dda9-7f19-45d7-adb7-c2486910b5df.jpg
+cover_image: /img/4bb2dda9-7f19-45d7-adb7-c2486910b5df.jpg
 ---
 Zveme vás na cestovatelský večer o Ománu – zemi písku, hor a vůně kadidla.
 Podíváme se mezi majestátní mešity, do pouště i k tyrkysovým vádí ukrytým ve skalách.
