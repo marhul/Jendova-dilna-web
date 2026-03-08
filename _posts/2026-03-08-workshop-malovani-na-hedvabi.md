@@ -10,17 +10,17 @@ Během dvou večerních setkání se seznámíte se základními postupy práce 
 
 Workshop je vhodný pro všechny, kteří chtějí poznat svět barev, vyzkoušet si novou výtvarnou techniku a strávit příjemný tvůrčí čas.
 
-Termíny:
-8. 4.(<a href="https://jendova-dilna.reenio.cz/cs/term/P1488891/2026-04-08;viewMode=day" target="_blank" rel="noopener noreferrer">Registrace</a>) a 15. 4. (<a href="https://jendova-dilna.reenio.cz/cs/term/P1488914/2026-04-15;viewMode=day" target="_blank" rel="noopener noreferrer">Registrace</a>)
-vždy od 18:00 do 20:00
+📅  Dva termíny:
+8. 4. 2026 18:00 - 20:00 <a href="https://jendova-dilna.reenio.cz/cs/term/P1488891/2026-04-08;viewMode=day" target="_blank" rel="noopener noreferrer">↗️ Registrace</a>
 
-Kapacita:
-maximálně 5 účastníků
+15. 4. 2026 18:00 - 20:00 <a href="https://jendova-dilna.reenio.cz/cs/term/P1488914/2026-04-15;viewMode=day" target="_blank" rel="noopener noreferrer">↗️ Registrace</a>
 
-Věk:
-12 let a více
+📍 Jendova dílna
 
-Cena kurzu:
-900 Kč
+Kapacita: maximálně 5 účastníků
 
-Workshop vede Lucie Novotná.
+Věk: 12 let a více
+
+🎟 Cena kurzu: 900 Kč
+
+🎤 Workshop vede Lucie Novotná.
