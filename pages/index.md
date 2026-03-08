@@ -12,47 +12,17 @@ Kroužky probíhají v malých skupinách a jsou vedeny zkušenými lektory.
 
 ---
 
-## 🎨 Hokus pokus
+## 🎨 Keramický pro děti (6–18 let)
 
 **Popis:**  
-Bláznivé, zábavné i vědecké pokusy a experimenty. Bádání, které můžeš doma ukázat i mamce, taťkovi či sourozencům nejen z oblasti fyziky.
+Keramický kroužek pro děti napříč věkem – od základů práce s hlínou až po pokročilejší techniky. Děti rozvíjí jemnou motoriku, kreativitu a radost z vlastní tvorby.
 
-**Věk:** 6–12 let  
-**Cena:** **1500 Kč**  
-**Den:** **Pondělí**  
-**Čas:** **15:00 – 16:30**
-**Lektor:** **Iva Rottnerová**  
-
-
-[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1471839/2026-02-23;viewMode=day)
-
----
-
-## 🎨 Keramika pro nejmenší (6–12 let)
-
-**Popis:**  
-Tvořivý keramický kroužek pro mladší děti. Děti se seznámí se základy práce s hlínou, rozvíjí jemnou motoriku, kreativitu a radost z vlastní tvorby.
-
-**Věk:** 6–12 let  
+**Věk:** 6–18 let  
 **Cena:** **1200 Kč**  
 **Den:** **Úterý**  
-**Čas:** **14:30 – 15:55**
+**Čas:** **15:30 – 17:00**
 
-[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1470825/2026-02-24;viewMode=day)
-
----
-
-## 🎨 Keramika pro větší (12–18 let)
-
-**Popis:**  
-Pokročilejší keramická tvorba pro starší děti a mládež. Práce s různými technikami, glazováním a rozvoj vlastního výtvarného stylu.
-
-**Věk:** 12–18 let  
-**Cena:** **1200 Kč**  
-**Den:** **Úterý**  
-**Čas:** **16:00 – 17:30**
-
-[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1470826/2026-02-24;viewMode=day)
+[👉 Registrace](https://jendova-dilna.reenio.cz/)
 
 ---
 
@@ -70,35 +40,20 @@ Keramický kroužek pro dospělé jako příjemný kreativní relax po práci. V
 
 ---
 
-## ♻️ Tvoření z odpadu (6–12 let)
+## ♻️ Recyklo tvoření (6–12 let)
 
 **Popis:**  
 Kreativní kroužek zaměřený na tvoření z recyklovaných a přírodních materiálů. Děti se učí udržitelnosti zábavnou a praktickou formou.
 
 **Věk:** 6–12 let  
-**Cena:** **1500 Kč**  
-**Den:** **Úterý**  
-**Čas:** **14:30 – 16:00**
-**Lektor:** **Iva Rottnerová**  
-
-[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1470804/2026-02-24;viewMode=day)
-
----
-
-## 📄 Tvorba z papíru – základní knižní vazba  
-
-**Popis:**  
-Krátkodobý kurz zaměřený na práci s papírem, základy knižní vazby a ruční výrobu sešitů a knížek.
-
-**Věk:** 10+ (doporučeno)  
 **Cena:** **1200 Kč**  
 **Den:** **Středa**  
-**Čas:** **16:00 – 17:30**
+**Čas:** **15:30 – 17:00**  
+**Lektor:** **Iva Rottnerová**  
 
-[👉 Registrace](https://jendova-dilna.reenio.cz/cs/term/P1470805/2026-02-25;viewMode=day)
+[👉 Registrace](https://jendova-dilna.reenio.cz/)
 
 ---
-
 
 ## 🖨️ Kroužek 3D tisku
 
