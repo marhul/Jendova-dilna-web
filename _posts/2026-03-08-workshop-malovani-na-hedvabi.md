@@ -16,9 +16,9 @@ Workshop je vhodný pro všechny, kteří chtějí poznat svět barev, vyzkouše
 
 📍 Jendova dílna
 
-Kapacita: maximálně 5 účastníků
+👥 Kapacita: maximálně 5 účastníků
 
-Věk: 12 let a více
+🎂 Věk: 12 let a více
 
 🎟 Cena kurzu: 900 Kč
 
