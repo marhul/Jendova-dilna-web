@@ -16,7 +16,7 @@ Kroužky probíhají v malých skupinách a jsou vedeny zkušenými lektory.
 
 Nově otevřený jednorázový workshop: **[Malování na hedvábí]({% post_url 2026-03-08-workshop-malovani-na-hedvabi %})**
 
-Termíny: **8. 4.** a **15. 4. 2026** (18:00–20:00) – detaily a registrace jsou v odkazu.
+Termín: dvoudenní workshop **8. 4.** a **15. 4. 2026** (18:00–20:00) – detaily a registrace jsou v odkazu.
 
 ---
 

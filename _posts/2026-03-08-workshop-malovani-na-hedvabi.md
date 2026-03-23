@@ -10,9 +10,10 @@ Během dvou večerních setkání se seznámíte se základními postupy práce 
 
 Workshop je vhodný pro všechny, kteří chtějí poznat svět barev, vyzkoušet si novou výtvarnou techniku a strávit příjemný tvůrčí čas.
 
-📅  Dva termíny:
-- 8\. 4\. 2026 18:00 - 20:00 <a href="https://jendova-dilna.reenio.cz/cs/term/P1488891/2026-04-08;viewMode=day" target="_blank" rel="noopener noreferrer">↗️ Registrace</a>
-- 15\. 4\. 2026 18:00 - 20:00 <a href="https://jendova-dilna.reenio.cz/cs/term/P1488914/2026-04-15;viewMode=day" target="_blank" rel="noopener noreferrer">↗️ Registrace</a>
+📅  Termín:
+
+Workshop je rozdělen do dvou navazujících večerů – <b>8. 4. a 15. 4. 2026</b> vždy od 18:00 do 20:00. Cena za workshop zahrnuje účast na obou termínech.
+<a href="https://jendova-dilna.reenio.cz/cs/term/P1489317/2026-04-08;viewMode=day" target="_blank" rel="noopener noreferrer">↗️ Registrace</a>
 
 📍 Jendova dílna
 
