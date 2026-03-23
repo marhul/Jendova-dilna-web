@@ -2,7 +2,7 @@
 layout: page
 title: Kalendář
 subtitle: Plánované události a workshopy v Jendově dílně
-permalink: /kalendar/
+permalink: /kalendar2/
 full-width: true
 ---
 <div class="reenio-iframe" data-size="auto"></div>
