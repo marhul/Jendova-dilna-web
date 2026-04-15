@@ -17,7 +17,7 @@ Kroužky probíhají v malých skupinách a jsou vedeny zkušenými lektory.
 Cestovatelské vyprávění: **[Vyprávění z cestování po Namibii]({% post_url 2026-04-15-vypraveni-z-cestovani-po-namibii %})**
 
 Termín: **17. 5. 2026 od 19:30** – vypráví **Filip a Gábina**  
-Registrace: https://kalendar.jendovadilna.cz/event/namibie-zeme-kontrastu
+<a href="https://kalendar.jendovadilna.cz/event/namibie-zeme-kontrastu" target="_blank" rel="noopener noreferrer"><b>Registrace</b></a>
 
 🔜 Chystáme další novinky: v květnu bude jednorázový **workshop o 3D tisku** – brzy doplníme termín a registraci.
 
