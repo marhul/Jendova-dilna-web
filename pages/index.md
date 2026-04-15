@@ -12,11 +12,13 @@ Kroužky probíhají v malých skupinách a jsou vedeny zkušenými lektory.
 
 ---
 
-## 🆕 Nově vypsaný workshop
+## 🆕 Nová událost v dílně
 
-Nově otevřený jednorázový workshop: **[Malování na hedvábí]({% post_url 2026-03-08-workshop-malovani-na-hedvabi %})**
+Cestovatelské vyprávění: **[Vyprávění z cestování po Namibii]({% post_url 2026-04-15-vypraveni-z-cestovani-po-namibii %})**
 
-Termín: dvoudenní workshop **8. 4.** a **15. 4. 2026** (18:00–20:00) – detaily a registrace jsou v odkazu.
+Termín: **17. 5. 2026 od 19:30** – vypráví **Filip a Gábina** (detaily a rezervace jsou v odkazu).
+
+🔜 Chystáme další novinky: v květnu bude jednorázový **workshop o 3D tisku** – brzy doplníme termín a registraci.
 
 ---
 
