@@ -14,12 +14,17 @@ Kroužky probíhají v malých skupinách a jsou vedeny zkušenými lektory.
 
 ## 🆕 Nová událost v dílně
 
-Cestovatelské vyprávění: **[Vyprávění z cestování po Namibii]({% post_url 2026-04-15-vypraveni-z-cestovani-po-namibii %})**
+Sboráček ZŠ Dukelská Vás ve spolupráci s Okis café zve na:
 
-Termín: **17. 5. 2026 od 19:30** – vypráví **Filip a Gábina**  
-<a href="https://kalendar.jendovadilna.cz/event/namibie-zeme-kontrastu" target="_blank" rel="noopener noreferrer"><b>Registrace</b></a>
+### Benefiční koncert na podporu Jendovy dílny
 
-🔜 Chystáme další novinky: v květnu bude jednorázový **workshop o 3D tisku** – brzy doplníme termín a registraci.
+Termín: **18. 6. 2026 od 16:00**  
+Místo: **v zahradě pod Bílou věží, Piaristické náměstí**
+
+Přijďte podpořit činnost Jendovy dílny, potkat se s námi a užít si příjemné odpoledne plné hudby.
+
+![Pozvánka na benefiční koncert na podporu Jendovy dílny](/img/20260618_beneficni_koncert.jpg)
+
 
 ---
 
