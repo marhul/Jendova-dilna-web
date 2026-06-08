@@ -23,7 +23,9 @@ Místo: **v zahradě pod Bílou věží, Piaristické náměstí**
 
 Přijďte podpořit činnost Jendovy dílny, potkat se s námi a užít si příjemné odpoledne plné hudby.
 
-![Pozvánka na benefiční koncert na podporu Jendovy dílny](/img/20260618_beneficni_koncert.jpg)
+<p style="text-align: center;">
+	<img src="/img/20260618_beneficni_koncert.jpg" alt="Pozvánka na benefiční koncert na podporu Jendovy dílny" style="width: 100%; max-width: 760px; height: auto;" />
+</p>
 
 
 ---
