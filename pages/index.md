@@ -28,24 +28,6 @@ Kroužky zřizuje DDM České Budějovice – více informací a přihlášky na
 
 ---
 
-## 🆕 Nová událost v dílně
-
-Sboráček ZŠ Dukelská Vás ve spolupráci s Okis café zve na:
-
-### Benefiční koncert na podporu Jendovy dílny
-
-Termín: **18. 6. 2026 od 16:00**  
-Místo: **v zahradě pod Bílou věží, Piaristické náměstí**
-
-Přijďte podpořit činnost Jendovy dílny, potkat se s námi a užít si příjemné odpoledne plné hudby.
-
-<p style="text-align: center;">
-	<img src="/img/20260618_beneficni_koncert.jpg" alt="Pozvánka na benefiční koncert na podporu Jendovy dílny" style="width: 100%; max-width: 760px; height: auto;" />
-</p>
-
-
----
-
 ## ♻️ Tvoření z odpadu (6–12 let)
 
 **Popis:**  
