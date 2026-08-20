@@ -77,7 +77,7 @@ Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se se
 
 - **Termín:** 2. 2. 2026 – 22. 6. 2026
 - **Počet lekcí:** 19
-- **Cena:** 900 Kč / dítě / pololetí
+- **Cena:** 1200 Kč / dítě / pololetí
 - **Kapacita:** malá skupina (max. 8 dětí)
 - **Den:** **Pondělí**  
 - **Čas:** **16:30 – 18:00**
