@@ -12,6 +12,20 @@ Kroužky probíhají v malých skupinách a jsou vedeny zkušenými lektory.
 
 ---
 
+## 🆕 Kroužky a kurzy v novém školním roce
+
+Zveme Vás na kroužky a kurzy, které budou v Jendově dílně probíhat v novém školním roce. Vybrat si můžete z tvoření z odpadu, pokusů, keramiky pro menší i větší děti, recyklo kroužku nebo anglického klubu.
+
+Kroužky zřizuje DDM České Budějovice – více informací a přihlášky najdete na [www.ddmcb.cz](https://www.ddmcb.cz).
+
+<p style="text-align: center;">
+	<a href="/img/krouzky_a_kurzy_2026.jpg">
+		<img src="/img/krouzky_a_kurzy_2026.jpg" alt="Rozvrh kroužků a kurzů v Jendově dílně" style="width: 100%; max-width: 620px; height: auto;" />
+	</a>
+</p>
+
+---
+
 ## 🆕 Nová událost v dílně
 
 Sboráček ZŠ Dukelská Vás ve spolupráci s Okis café zve na:
@@ -82,7 +96,7 @@ Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se se
 
 - **Termín:** 2. 2. 2026 – 22. 6. 2026
 - **Počet lekcí:** 19
-- **Cena:** **900 Kč / dítě / pololetí**
+- **Cena:** **1200 Kč / dítě / pololetí**
 - **Kapacita:** malá skupina (max. 8 dětí)
 - **Den:** **Pondělí**  
 - **Čas:** **16:30 – 18:00**
