@@ -21,8 +21,8 @@ Zveme Vás na kroužky a kurzy, které budou v Jendově dílně probíhat v nov�
 Přihlášky posílejte na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) nebo přes Instagram [@jendovadilna.cz](https://www.instagram.com/jendovadilna.cz/).
 
 <p style="text-align: center;">
-	<a href="/img/krouzky_a_kurzy_2026.jpg">
-		<img src="/img/krouzky_a_kurzy_2026.jpg" alt="Rozvrh kroužků a kurzů v Jendově dílně" style="width: 100%; max-width: 620px; height: auto;" />
+	<a href="/img/krouzky_a_kurzy_2026_2027.jpg">
+		<img src="/img/krouzky_a_kurzy_2026_2027.jpg" alt="Rozvrh kroužků a kurzů v Jendově dílně" style="width: 100%; max-width: 620px; height: auto;" />
 	</a>
 </p>
 
