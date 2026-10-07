@@ -13,7 +13,7 @@ Za každým kroužkem stojí člověk, který děti podporuje, motivuje a pomáh
 
 ## Lenička
 
-<img class="lecturer-photo" src="/img/photos/lektorka_Lenicka.png" alt="Lenička">
+<img class="lecturer-photo" src="/img/lektori/lektorka_Lenicka.png" alt="Lenička">
 
 Lenička je lektorka, která dětem dává prostor zkoušet, objevovat a mít radost z tvorby – nejen z výsledku. Umí děti povzbudit, když se něco nepovede, a zároveň je jemně vést k trpělivosti a pečlivosti. Díky tomu si děti z kroužků odnášejí nejen výrobky, ale i sebejistotu a chuť tvořit dál.
 
@@ -27,7 +27,7 @@ Lenička je lektorka, která dětem dává prostor zkoušet, objevovat a mít ra
 
 ## Martin Hulík
 
-<img class="lecturer-photo" src="/img/photos/lektor_MartinHulik.png" alt="Martin Hulík">
+<img class="lecturer-photo" src="/img/lektori/lektor_MartinHulik.png" alt="Martin Hulík">
 
 Martin je nadšenec do elektroniky a nových technologií, věčný bastlíř a (v tom nejlepším slova smyslu) „hračička“ – svět bez skládání, zkoušení a vymýšlení drobných zlepšení si neumí představit. Jako táta dvou předškoláků dobře ví, že u dětí je důležitý zážitek a radost z objevování nových věcí.
 
@@ -40,8 +40,7 @@ Na kroužku vede děti krok za krokem, srozumitelně a trpělivě. Dává pozor,
 
 ## Iva Rottnerová
 
-Iva je lektorka, která v dětech probouzí zvídavost, fantazii a radost z objevování. Vede je k tomu, aby tvořily z obyčejných věcí neobyčejné nápady a nebály se experimentovat. V kroužku Tvoření z odpadu rozvíjí kreativitu i cit pro ekologii a dává věcem nový život. V Hokus pokus dětem hravou formou přibližuje svět pokusů a jednoduchého vědeckého bádání. Děti si z jejích lekcí odnášejí nejen výrobky a zážitky, ale i sebevědomí a chuť objevovat dál.
+Iva je lektorka, která v dětech probouzí zvídavost, fantazii a radost z objevování. Vede je k tomu, aby se nebály experimentovat a objevovat svět kolem sebe. V Hokus pokus dětem hravou formou přibližuje svět pokusů a jednoduchého vědeckého bádání. Děti si z jejích lekcí odnášejí nejen výrobky a zážitky, ale i sebevědomí a chuť objevovat dál.
 
-**Vede kroužky / kurzy:**
-- Hokus pokus
-- Tvoření z odpadu
+**Vede kroužek:**
+- Hokus pokus (6–12 let)

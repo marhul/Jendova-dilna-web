@@ -5,20 +5,20 @@ subtitle: Co se bude v dílně nabízet
 permalink: /
 ---
 
-# Nabídka kroužků
+# Nabídka kroužků a kurzů
 
 Vyberte si z pestré nabídky volnočasových kroužků pro děti a mládež.  
 Kroužky probíhají v malých skupinách přímo v Jendově dílně (Česká 245/33, České Budějovice) a jsou vedeny zkušenými lektory.
 
-Kroužky zřizuje **DDM České Budějovice**. Zájmová činnost probíhá od **14. 9. 2026 do 31. 5. 2027**. Přihlašování je možné **pouze on-line** na [www.ddmcb.cz/krouzky](https://www.ddmcb.cz/krouzky).
+Zájmová činnost probíhá od **14. 9. 2026 do 31. 5. 2027**. Přihlášky posílejte e-mailem na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) nebo nám napište na Instagramu [@jendovadilna.cz](https://www.instagram.com/jendovadilna.cz/).
 
 ---
 
 ## 🆕 Kroužky a kurzy v novém školním roce
 
-Zveme Vás na kroužky a kurzy, které budou v Jendově dílně probíhat v novém školním roce. Vybrat si můžete z tvoření z odpadu, pokusů, keramiky pro menší i větší děti, recyklo kroužku nebo anglického klubu.
+Zveme Vás na kroužky a kurzy, které budou v Jendově dílně probíhat v novém školním roce. Vybrat si můžete z keramiky pro děti 5–8 let, pokusů v kroužku Hokus pokus, keramiky pro menší i větší děti nebo keramiky pro rodiče s dětmi od 3 let.
 
-Kroužky zřizuje DDM České Budějovice – více informací a přihlášky najdete na [www.ddmcb.cz](https://www.ddmcb.cz).
+Přihlášky posílejte na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) nebo přes Instagram [@jendovadilna.cz](https://www.instagram.com/jendovadilna.cz/).
 
 <p style="text-align: center;">
 	<a href="/img/krouzky_a_kurzy_2026.jpg">
@@ -28,18 +28,17 @@ Kroužky zřizuje DDM České Budějovice – více informací a přihlášky na
 
 ---
 
-## ♻️ Tvoření z odpadu (6–12 let)
+## 🎨 Keramika pro děti 5–8 let
 
 **Popis:**  
-Z různých druhů materiálů z vymytých a čistých odpadků budeme vyrábět věci praktické i dekorativní.
+Kroužek pro malé tvůrce, kteří rádi tvoří, objevují a zkouší, co všechno se dá z hlíny vytvořit. Děti si postupně vyzkouší různé keramické techniky a zároveň budou moci tvořit dle vlastní fantazie.
 
-**Věk:** 6–12 let  
-**Cena:** **1900 Kč / školní rok**  
+**Věk:** 5–8 let  
+**Cena:** **1 300 Kč / pololetí**  
 **Den:** **Pondělí**  
-**Čas:** **14:30 – 16:00**  
-**Lektor:** **Iva Rottnerová**
+**Čas:** **15:00 – 16:00**
 
-[👉 Přihláška na www.ddmcb.cz](https://www.ddmcb.cz/krouzky)
+[👉 Přihlásit se e-mailem](mailto:info@jendovadilna.cz)
 
 ---
 
@@ -54,11 +53,11 @@ Kroužek pro chlapce a dívky, kteří mají rádi bláznivé, zábavné i zbrkl
 **Čas:** **16:30 – 18:00**  
 **Lektor:** **Iva Rottnerová**
 
-[👉 Přihláška na www.ddmcb.cz](https://www.ddmcb.cz/krouzky)
+[👉 Přihlásit se e-mailem](mailto:info@jendovadilna.cz)
 
 ---
 
-## 🎨 Keramika pro menší děti (6–12 let)
+## 🎨 Keramika pro menší děti (6–12 let) — <span style="color: #c0392b;">OBSAZENO</span>
 
 **Popis:**  
 Vyzkoušíme nejrůznější techniky práce s hlínou a budeme rozvíjet naše nápady.
@@ -67,51 +66,36 @@ Vyzkoušíme nejrůznější techniky práce s hlínou a budeme rozvíjet naše 
 **Cena:** **2500 Kč / školní rok**  
 **Den:** **Úterý**  
 **Čas:** **15:00 – 16:30**  
-**Lektor:** **Jitka Průšová**
-
-[👉 Přihláška na www.ddmcb.cz](https://www.ddmcb.cz/krouzky)
+**Lektor:** **Jitka Průšová**  
+**Kapacita:** **obsazeno** – v případě zájmu o náhradníka nám napište.
 
 ---
 
-## 🎨 Keramika pro větší děti (12–18 let)
+## 🎨 Keramika pro větší děti (12+) — <span style="color: #c0392b;">OBSAZENO</span>
 
 **Popis:**  
 Vyzkoušíme nejrůznější techniky práce s hlínou a budeme rozvíjet naše nápady.
 
-**Věk:** 12–18 let  
+**Věk:** 12+ let  
 **Cena:** **2500 Kč / školní rok**  
 **Den:** **Úterý**  
 **Čas:** **17:00 – 18:30**  
-**Lektor:** **Jitka Průšová**
-
-[👉 Přihláška na www.ddmcb.cz](https://www.ddmcb.cz/krouzky)
-
----
-
-## ♻️ Recyklo kroužek (6–12 let)
-
-**Popis:**  
-Je možné dát starým a nepotřebným věcem nový život? Využijeme různé materiály, rozvineme fantazii, šikovnost a podpoříme vztah k ochraně přírody hravou tvořivou formou.
-
-**Věk:** 6–12 let  
-**Cena:** **1900 Kč / školní rok**  
-**Den:** **Středa**  
-**Čas:** **16:30 – 18:00**  
-**Lektor:** **Veronika Soldátová**
-
-[👉 Přihláška na www.ddmcb.cz](https://www.ddmcb.cz/krouzky)
+**Lektor:** **Jitka Průšová**  
+**Kapacita:** **obsazeno** – v případě zájmu o náhradníka nám napište.
 
 ---
 
-## 🇬🇧 Sunday English Club (14–99 let)
+## 🎨 Keramika pro rodiče s dětmi od 3 let
 
 **Popis:**  
-Nedělní anglický klub pro mládež i dospělé – konverzace a angličtina zábavnou formou.
+Společné tvoření rodičů a dětí, při kterém si užijete čas spolu a zároveň si vyzkoušíte práci s keramickou hlínou. Pro malé děti je to krásná příležitost poprvé se s hlínou seznámit a pořádně si ji osahat.
 
-**Věk:** 14–99 let  
-**Den:** **Neděle**  
-**Čas:** **17:30 – 18:30**  
-**Lektor:** **Marek Vacka**
+**Věk:** od 3 let (s doprovodem rodiče)  
+**Cena:** **1 300 Kč / pololetí**  
+**Den:** **Čtvrtek**  
+**Čas:** **15:00 – 16:00**
+
+[👉 Přihlásit se e-mailem](mailto:info@jendovadilna.cz)
 
 ---
 
