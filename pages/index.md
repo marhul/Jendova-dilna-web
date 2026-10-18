@@ -20,26 +20,6 @@ Zveme Vás na kroužky a kurzy, které budou v Jendově dílně probíhat v nov�
 
 Přihlášky posílejte na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) nebo přes Instagram [@jendovadilna.cz](https://www.instagram.com/jendovadilna.cz/).
 
-<p style="text-align: center;">
-	<a href="/img/krouzky_a_kurzy_2026_2027.jpg">
-		<img src="/img/krouzky_a_kurzy_2026_2027.jpg" alt="Rozvrh kroužků a kurzů v Jendově dílně" style="width: 100%; max-width: 620px; height: auto;" />
-	</a>
-</p>
-
----
-
-## 🎨 Keramika pro děti 5–8 let
-
-**Popis:**  
-Kroužek pro malé tvůrce, kteří rádi tvoří, objevují a zkouší, co všechno se dá z hlíny vytvořit. Děti si postupně vyzkouší různé keramické techniky a zároveň budou moci tvořit dle vlastní fantazie.
-
-**Věk:** 5–8 let  
-**Cena:** **1 300 Kč / pololetí**  
-**Den:** **Pondělí**  
-**Čas:** **15:00 – 16:00**
-
-[👉 Přihlásit se e-mailem](mailto:info@jendovadilna.cz)
-
 ---
 
 ## 🧪 Hokus pokus (6–12 let)
