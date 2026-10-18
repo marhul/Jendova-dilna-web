@@ -4,28 +4,12 @@ title: Kroužky
 subtitle: Co se bude v dílně nabízet
 permalink: /krouzky/
 ---
-
 # Nabídka kroužků a kurzů
 
 Vyberte si z pestré nabídky volnočasových kroužků pro děti a mládež.  
 Kroužky probíhají v malých skupinách přímo v Jendově dílně (Česká 245/33, České Budějovice) a jsou vedeny zkušenými lektory.
 
 Zájmová činnost probíhá od **14. 9. 2026 do 31. 5. 2027**. Přihlášky posílejte e-mailem na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) nebo nám napište na Instagramu [@jendovadilna.cz](https://www.instagram.com/jendovadilna.cz/).
-
----
-
-## 🎨 Keramika pro děti 5–8 let
-
-**Popis:**  
-Kroužek pro malé tvůrce, kteří rádi tvoří, objevují a zkouší, co všechno se dá z hlíny vytvořit. Děti si postupně vyzkouší různé keramické techniky a zároveň budou moci tvořit dle vlastní fantazie.
-
-**Věk:** 5–8 let  
-**Cena:** **1 300 Kč / pololetí**  
-**Den:** **Pondělí**  
-**Čas:** **15:00 – 16:00**
-
-[👉 Přihlásit se e-mailem](mailto:info@jendovadilna.cz)
-
 ---
 
 ## 🧪 Hokus pokus (6–12 let)
