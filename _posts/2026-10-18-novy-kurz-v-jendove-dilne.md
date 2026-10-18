@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nový kurz v Jendově dílně
-cover_image: /img/0F09652A-8583-45E3-B2ED-BC7E371581AA.png
+cover_image: https://github.com/marhul/Jendova-dilna-web/blob/main/img/0F09652A-8583-45E3-B2ED-BC7E371581AA.png
 ---
 „Životní zkušenosti se otisknou do každého výrobku.”
 
