@@ -15,12 +15,12 @@ Každé dítě si během kroužku odnese domů řadu vlastních výrobků – jm
 
 ## ℹ️ Základní informace
 
-- **Termín:** 2. 2. 2026 – 22. 6. 2026
+- **Termín:** 17. 9. 2026 – 28. 1. 2027
 - **Počet lekcí:** 19
 - **Cena:** **1200 Kč / dítě / pololetí**
 - **Kapacita:** malá skupina (max. 8 dětí)
 - **Místo:** Jendova dílna, ulice Česká 245/33, České Budějovice
-- **Den:** **Pondělí**  
+- **Den:** **Čtvrtek**
 - **Čas:** **16:30 – 18:00**
 - **Věk:** doporučeno pro děti 5-7 let
 - **Vedoucí kroužku:** Ing. Martin Hulík
