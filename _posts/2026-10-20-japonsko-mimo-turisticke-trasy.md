@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Japonsko mimo turistické trasy – cestovatelské promítání
-date: 21.10.2026
+date: 2026-10-20 00:00:00 +0200
 cover_image: /img/japonsko-mimo-turisticke-trasy-2026.png
 ---
 Zajímá vás, jak se žije v zemi vycházejícího slunce? Přijďte na prezentaci z cesty po Japonsku, kde se podíváme na místní kulturu, každodenní život, čajové zahrady a mnohé další zážitky. Čeká vás vyprávění z cesty, během které jsme poznali Japonsko o něco méně turistické a o to zajímavější.
