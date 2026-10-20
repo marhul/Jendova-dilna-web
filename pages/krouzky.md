@@ -6,10 +6,27 @@ permalink: /krouzky/
 ---
 # Nabídka kroužků a kurzů
 
-Vyberte si z pestré nabídky volnočasových kroužků pro děti a mládež.  
+Vyberte si z pestré nabídky volnočasových kroužků pro děti, mládež i seniory.  
 Kroužky probíhají v malých skupinách přímo v Jendově dílně (Česká 245/33, České Budějovice) a jsou vedeny zkušenými lektory.
 
 Zájmová činnost probíhá od **14. 9. 2026 do 31. 5. 2027**. Přihlášky posílejte e-mailem na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) nebo nám napište na Instagramu [@jendovadilna.cz](https://www.instagram.com/jendovadilna.cz/).
+---
+
+<img class="course-promo" src="/img/0F09652A-8583-45E3-B2ED-BC7E371581AA.png" alt="Nový kurz keramiky pro seniory v Jendově dílně, v pondělí od 15:00 do 16:00">
+
+## 🏺 Keramika pro seniory
+
+**Popis:**  
+Kurz keramiky pro seniory, kteří chtějí objevovat radost z tvoření, vyzkoušet si práci s hlínou a vyrábět vlastní originální výrobky. Příjemné chvíle v milé společnosti, prostor pro kreativitu i odpočinek. Předchozí zkušenosti nejsou potřeba, stačí chuť tvořit!
+
+**Věk:** Senioři  
+**Cena:** **1300 Kč / listopad–leden**  
+**Den:** **Pondělí (od 2. listopadu 2026)**  
+**Čas:** **15:00–16:00**  
+**Místo:** Jendova dílna, Česká 245/33, České Budějovice
+
+[👉 Přihlásit se e-mailem](mailto:info@jendovadilna.cz)
+
 ---
 
 ## 🧪 Hokus pokus (6–12 let)

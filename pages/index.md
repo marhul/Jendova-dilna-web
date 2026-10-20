@@ -7,7 +7,7 @@ permalink: /
 
 # Nabídka kroužků a kurzů
 
-Vyberte si z pestré nabídky volnočasových kroužků pro děti a mládež.  
+Vyberte si z pestré nabídky volnočasových kroužků pro děti, mládež i seniory.  
 Kroužky probíhají v malých skupinách přímo v Jendově dílně (Česká 245/33, České Budějovice) a jsou vedeny zkušenými lektory.
 
 Zájmová činnost probíhá od **14. 9. 2026 do 31. 5. 2027**. Přihlášky posílejte e-mailem na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) nebo nám napište na Instagramu [@jendovadilna.cz](https://www.instagram.com/jendovadilna.cz/).
@@ -19,6 +19,23 @@ Zájmová činnost probíhá od **14. 9. 2026 do 31. 5. 2027**. Přihlášky pos
 Zveme Vás na kroužky a kurzy, které budou v Jendově dílně probíhat v novém školním roce. Vybrat si můžete z keramiky pro děti 5–8 let, pokusů v kroužku Hokus pokus, keramiky pro menší i větší děti nebo keramiky pro rodiče s dětmi od 3 let.
 
 Přihlášky posílejte na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) nebo přes Instagram [@jendovadilna.cz](https://www.instagram.com/jendovadilna.cz/).
+
+---
+
+<img class="course-promo" src="/img/0F09652A-8583-45E3-B2ED-BC7E371581AA.png" alt="Nový kurz keramiky pro seniory v Jendově dílně, v pondělí od 15:00 do 16:00">
+
+## 🏺 Keramika pro seniory
+
+**Popis:**  
+Kurz keramiky pro seniory, kteří chtějí objevovat radost z tvoření, vyzkoušet si práci s hlínou a vyrábět vlastní originální výrobky. Příjemné chvíle v milé společnosti, prostor pro kreativitu i odpočinek. Předchozí zkušenosti nejsou potřeba, stačí chuť tvořit!
+
+**Věk:** Senioři  
+**Cena:** **1300 Kč / listopad–leden**  
+**Den:** **Pondělí (od 2. listopadu 2026)**  
+**Čas:** **15:00–16:00**  
+**Místo:** Jendova dílna, Česká 245/33, České Budějovice
+
+[👉 Přihlásit se e-mailem](mailto:info@jendovadilna.cz)
 
 ---
 
@@ -79,7 +96,7 @@ Společné tvoření rodičů a dětí, při kterém si užijete čas spolu a z�
 
 ---
 
-## 🖨️ Kroužek 3D tisku
+## 🖨️ Kroužek 3D tisku — <span style="color: #c0392b;">OBSAZENO</span>
 
 **Popis:**  
 Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se seznámí s moderními technologiemi a rozvíjí logické myšlení. Během kroužku se postupně postaví robůtek na dálkové ovládání z 3D tiskárny z elektronické stavebnice [CyberBrick](https://makerworld.com/cs/models/1395987-cyberbrick-official-soccerbot) (zájemci si mohou vyhotovený robůtek včetně celé stavebnice [CyberBrick hardware kit](https://eu.store.bambulab.com/products/cyberbrick-hardware-kit) na konci kurzu odkoupit).
@@ -94,10 +111,6 @@ Technický kroužek zaměřený na základy 3D modelování a tisku. Děti se se
 - **Čas:** **16:30 – 18:00**
 - **Věk:** doporučeno pro děti 5-7 let
 - **Vedoucí kroužku:** Ing. Martin Hulík
-
-<a href="https://jendova-dilna.reenio.cz/cs/term/P1414053/" target="_blank" rel="noopener noreferrer">
-👉 Vyplnit přihlášku
-</a> (přihlášku je možné vyplnit po kliknutí na událost "Kroužek 3D tisku" v kalendáři v odkazu)
 
 ---
 

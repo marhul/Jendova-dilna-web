@@ -32,6 +32,15 @@
 }
 
 /* Fotky lektorů */
+.course-promo {
+  display: block;
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 6px;
+}
+
 .lecturer-photo,
 .post-content img.lecturer-photo,
 .page-content img.lecturer-photo,
