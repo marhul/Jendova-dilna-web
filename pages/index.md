@@ -30,7 +30,7 @@ Přihlášky posílejte na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) n
 Kurz keramiky pro seniory, kteří chtějí objevovat radost z tvoření, vyzkoušet si práci s hlínou a vyrábět vlastní originální výrobky. Příjemné chvíle v milé společnosti, prostor pro kreativitu i odpočinek. Předchozí zkušenosti nejsou potřeba, stačí chuť tvořit!
 
 **Věk:** Senioři  
-**Cena:** **1300 Kč / listopad–leden**  
+**Cena:** **1600 Kč / listopad–leden**  
 **Den:** **Pondělí (od 2. listopadu 2026)**  
 **Čas:** **15:00–16:00**  
 **Místo:** Jendova dílna, Česká 245/33, České Budějovice
