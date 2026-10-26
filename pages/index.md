@@ -22,7 +22,7 @@ Přihlášky posílejte na [info@jendovadilna.cz](mailto:info@jendovadilna.cz) n
 
 ---
 
-<img class="course-promo" src="/img/0F09652A-8583-45E3-B2ED-BC7E371581AA.png" alt="Nový kurz keramiky pro seniory v Jendově dílně, v pondělí od 15:00 do 16:00">
+<img class="course-promo" src="/img/keramika-pro-seniory-2026.jpg" alt="Nový kurz keramiky pro seniory v Jendově dílně, v pondělí od 14:15 do 15:45">
 
 ## 🏺 Keramika pro seniory
 
@@ -32,7 +32,7 @@ Kurz keramiky pro seniory, kteří chtějí objevovat radost z tvoření, vyzkou
 **Věk:** Senioři  
 **Cena:** **1600 Kč / listopad–leden**  
 **Den:** **Pondělí (od 2. listopadu 2026)**  
-**Čas:** **15:00–16:00**  
+**Čas:** **14:15–15:45**  
 **Místo:** Jendova dílna, Česká 245/33, České Budějovice
 
 [👉 Přihlásit se e-mailem](mailto:info@jendovadilna.cz)

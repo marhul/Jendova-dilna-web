@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nový kurz v Jendově dílně
-cover_image: /img/0F09652A-8583-45E3-B2ED-BC7E371581AA.png
+cover_image: /img/keramika-pro-seniory-2026.jpg
 ---
 „Životní zkušenosti se otisknou do každého výrobku.”
 
@@ -13,9 +13,9 @@ Nemusíte mít žádné předchozí zkušenosti – stačí chuť tvořit a rado
 
 **Věk:** Senioři  
 **Kdy:** Pondělí od 2. listopadu 2026  
-**Čas:** 15:00–16:00  
+**Čas:** 14:15–15:45  
 **Kde:** Jendova dílna, Česká 245/33, České Budějovice  
-**Cena:** 1 300 Kč (listopad–leden)
+**Cena:** 1 600 Kč (listopad–leden)
 
 Přijďte si užít chvíli jen pro sebe, poznat nové lidi a přesvědčit se, že tvořit se dá v každém věku.
 
